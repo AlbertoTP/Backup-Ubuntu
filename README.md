@@ -21,7 +21,7 @@ Aptik es una utilidad que nos permite simplificar la reinstalación de paquetes 
 
 Para instalar Aptik en tu sistema, abre una terminal y añade el siguiente repositorio:
 
-'''
+```{r, engine='bash', count_lines}
 sudo apt-add-repository -y ppa:teejee2008/ppa
 sudo apt-get update
 sudo apt-get install aptik
@@ -34,7 +34,6 @@ sudo apt-get install aptik
 
 ## Para verificar la versión de Ubuntu:
 
-
-'''
+```{r, engine='bash', count_lines}
 lsb_release -a
-'''
+```
