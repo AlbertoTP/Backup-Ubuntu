@@ -25,7 +25,7 @@ Para instalar Aptik en tu sistema, abre una terminal y añade el siguiente repos
 sudo apt-add-repository -y ppa:teejee2008/ppa
 sudo apt-get update
 sudo apt-get install aptik
-'''
+```
 
 
 [Aqui se puede encontrar más información](https://ubunlog.com/aptik-herramienta-copias-seguridad/)
