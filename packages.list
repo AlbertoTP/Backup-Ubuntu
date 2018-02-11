@@ -1,149 +1,26 @@
-ant #Java based build tool like make
 apache2 #Apache HTTP Server
 apache2-utils #Apache HTTP Server (utility programs for web servers)
 aptik #Utility to backup and restore PPAs and packages.
-atop #Monitor for system resources and process activity
-bleachbit #delete unnecessary files from the system
-browser-plugin-vlc #multimedia plugin for web browsers based on VLC
-build-essential #Informational list of build-essential packages
-chromium-codecs-ffmpeg-extra #Extra ffmpeg codecs for the Chromium Browser
-clips #"C" Language Integrated Production System
-code #Code editing. Redefined.
-comix #GTK Comic Book Viewer
-curl #command line tool for transferring data with URL syntax
-default-jdk #Standard Java or Java compatible Development Kit
-djview-plugin #Browser plugin for the DjVu image format
-doc-base #utilities to manage online documentation
-epson-inkjet-printer-escpr #Epson Inkjet Printer Driver (ESC/P-R) for Linux
-filezilla #Full-featured graphical FTP/FTPS/SFTP client
-firefox-locale-es #Spanish; Castilian language pack for Firefox
+atom #A hackable text editor for the 21st Century.
+cpu-checker #tools to help evaluate certain CPU (or BIOS) features
+firefox-locale-en #English language pack for Firefox
 flashplugin-installer #Adobe Flash Player plugin installer
-g++ #GNU C++ compiler
-geany-plugin-addons #miscellanous plugins for Geany
-geany-plugin-codenav #code navigation plugin for Geany
-geany-plugin-commander #command panel plugin for Geany
-geany-plugin-doc #documentation plugin for Geany
-geany-plugin-extrasel #extra selection plugin for Geany
-geany-plugin-gendoc #documentation generation plugin for Geany
-geany-plugin-geniuspaste #GeniusPaste plugin for Geany
-geany-plugin-gproject #transitional dummy package for geany-plugin-projectorganizer
-geany-plugin-insertnum #number inserting plugin for Geany
-geany-plugin-latex #improved LaTeX support plugin for Geany
-geany-plugin-lipsum #Lorem Ipsum generator plugin for Geany
-geany-plugin-lua #Lua scripting plugin for Geany
-geany-plugin-macro #macro plugin for Geany
-geany-plugin-markdown #markdown plugin for Geany
-geany-plugin-miniscript #Geany Mini-Script filter plugin
-geany-plugin-numberedbookmarks #numbered bookmarks plugin for Geany
-geany-plugin-pg #pg plugin for Geany
-geany-plugin-prettyprinter #XML pretty printer for Geany
-geany-plugin-prj #alternative project manager for Geany
-geany-plugin-scope #graphical GDB front-end for Geany
-geany-plugin-sendmail #mailer plugin for Geany
-geany-plugin-shiftcolumn #text column shifting plugin for Geany
-geany-plugin-tableconvert #table convert plugin for Geany
-geany-plugin-treebrowser #tree browser plugin for Geany
-geany-plugin-updatechecker #update checker plugin for Geany
-geany-plugin-vc #VCS plugin for Geany
-geany-plugin-webhelper #web helper plugin for Geany
-geany-plugins #set of plugins for Geany
-gedit #official text editor of the GNOME desktop environment
-gfortran #GNU Fortran 95 compiler
-gimp #The GNU Image Manipulation Program
-gimp-help-es #Documentation for the GIMP (Spanish)
-git #fast, scalable, distributed revision control system
 git-all #fast, scalable, distributed revision control system (all subpackages)
-gns3-gui #GNS3 GUI
-gparted #GNOME partition editor
-gstreamer1.0-fluendo-mp3 #Fluendo mp3 decoder GStreamer 1.0 plugin
-gstreamer1.0-libav #libav plugin for GStreamer
-gstreamer1.0-plugins-bad #GStreamer plugins from the "bad" set
-gstreamer1.0-plugins-ugly #GStreamer plugins from the "ugly" set
-hardinfo #Displays system information
-hunspell-es #Spanish dictionary for hunspell
-hyphen-es #Spanish hyphenation patterns
-ivy #agile dependency manager
-jdownloader-installer #download manager for one-click hosting sites
-jsmath-fonts #raster fonts for jsMath
-kde-l10n-es #es (es) localization for KDE
-language-pack-gnome-en #GNOME translation updates for language English
-language-pack-gnome-es #GNOME translation updates for language Spanish; Castilian
-lib32ncurses5 #shared libraries for terminal handling (32-bit)
-lib32z1 #compression library - 32 bit runtime
+gvfs-bin #userspace virtual filesystem - binaries
 libapache2-mod-php #server-side, HTML-embedded scripting language (Apache 2 module) (default)
 libavahi-core7 #Avahi's embeddable mDNS/DNS-SD library
-libavcodec-extra #FFmpeg library with extra codecs (metapackage)
-libblas-dev #Basic Linear Algebra Subroutines 3, static library
-libblas-doc #Transitional package for BLAS manpages
-libbz2-1.0:i386 #high-quality block-sorting file compressor library - runtime
-libc6:i386 #GNU C Library: Shared libraries
-libcr-dev #Development files for BLCR
-libcrypto++9v5 #General purpose cryptographic library - shared library
-libevent-core-2.0-5 #Asynchronous event notification library (core)
-libgcc1:i386 #GCC support library
-liblapack-dev #Library of linear algebra routines 3 - static version
-liblapack-doc #Library of linear algebra routines 3 - documentation (HTML)
-libmagick++-6.q16-5v5 #object-oriented C++ interface to ImageMagick
-libncurses5:i386 #shared libraries for terminal handling
-libncurses5-dev #developer's libraries for ncurses
-libnl-3-200-dbg #debug symbols for libnl3
-libnl-3-dev #development library and headers for libnl-3
-libnl-genl-3-dev #development library and headers for libnl-genl-3
-libnss3-1d:i386 #Network Security Service libraries - transitional package
-libnss3-1d #Network Security Service libraries - transitional package
-libpcap-dev #development library for libpcap (transitional package)
-libpcre3-dev #Perl 5 Compatible Regular Expression Library - development files
-libqt4-qt3support:i386 #Qt 3 compatibility library for Qt 4
-libqt4-scripttools:i386 #Qt 4 script tools module
-libqtwebkit4:i386 #Web content engine library for Qt
-libreoffice-help-es #office productivity suite -- Spanish help
-libssl-dev:i386 #Secure Sockets Layer toolkit - development files
-libssl1.0.0:i386 #Secure Sockets Layer toolkit - shared libraries
-libstdc++6:i386 #GNU Standard C++ Library v3
-lsb #Linux Standard Base support package
+libicu52 #International Components for Unicode
 mysql-server #MySQL database server (metapackage depending on the latest version)
-mythes-es #Spanish Thesaurus for LibreOffice
-nodejs #evented I/O for V8 javascript
-npm #package manager for Node.js
-oxideqt-codecs-extra #Web browser engine for Qt (codecs)
-p7zip-rar #non-free rar module for p7zip
+oracle-java8-installer #Oracle Java(TM) Development Kit (JDK) 8
+oracle-java8-set-default #Set Oracle JDK 8 as default Java
 php #server-side, HTML-embedded scripting language (default)
-php-mcrypt #libmcrypt module for PHP [default]
+php-gettext #read gettext MO files directly, without requiring anything other than PHP
+php-mbstring #MBSTRING module for PHP [default]
 php-mysql #MySQL module for PHP [default]
-php7.0-mysql #MySQL module for PHP
 phpmyadmin #MySQL web administration tool
-pkg-config #manage compile and link flags for libraries
-pylucene #Python extension for accessing Java Lucene (transitional dummy package)
-python-dev #header files and a static library for Python (default)
-python-lxml #pythonic binding for the libxml2 and libxslt libraries
-python-networkx #tool to create, manipulate and study complex networks
 python-pip #alternative Python package installer
-python-pp #parallel and distributed programming toolkit for Python
-python-software-properties #manage the repositories that you install software from
-python-virtualenv #Python virtual environment creator
-python3-setuptools #Python3 Distutils Enhancements
-r-base #GNU R statistical computation and graphics system
 rar #Archiver for .rar files
-science-linguistics #Debian Science Linguistics packages
-screen #terminal multiplexer with VT100/ANSI terminal emulation
-sharutils #shar, unshar, uuencode, uudecode
 spyder #Python IDE for scientists (Python 2)
-subversion #Advanced version control system
-synaptic #Graphical package manager
-texlive-full #TeX Live: metapackage pulling in all components of TeX Live
-texmaker #cross-platform LaTeX editor
-tree #displays an indented directory tree, in color
-ttf-mscorefonts-installer #Installer for Microsoft TrueType core fonts
-ubuntu-developer-tools-center #transitional dummy package
-ubuntu-restricted-addons #Commonly used restricted packages for Ubuntu
-ubuntu-restricted-extras #Commonly used media codecs and fonts for Ubuntu
-uget #Simple graphical download manager
-unace #extract, test and view .ace archives
 unrar #Unarchiver for .rar files (non-free version)
 vlc #multimedia player and streamer
-weka #Machine learning algorithms for data mining tasks
-wine #Microsoft Windows Compatibility Layer (meta-package)
-wireshark #network traffic analyzer - meta-package
 wordnet #electronic lexical database of English language
-xul-ext-https-finder #extension that detects valid HTTPS pages as you browse
-xul-ext-y-u-no-validate #browser extension to make security exceptions temporary by default
