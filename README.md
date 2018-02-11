@@ -37,3 +37,6 @@ sudo apt-get install aptik
 ```{r, engine='bash', count_lines}
 lsb_release -a
 ```
+
+#One-click Restore
+password0
