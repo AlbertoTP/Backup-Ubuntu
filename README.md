@@ -38,5 +38,6 @@ sudo apt-get install aptik
 lsb_release -a
 ```
 
-#One-click Restore
+# One-click Restore
+
 password0
