@@ -1,0 +1,19 @@
+
+# Comment-out or remove lines for unwanted items
+
+danielrichter2007/grub-customizer # grub-customizer
+didrocks/ubuntu-developer-tools-center
+git-core/ppa # git gitk gitweb git-el git-cvs git-doc git-svn git-gui
+gns3/ppa # vpcs iouyap ubridge dynamips gns3-gui gns3-iou gns3-server
+jd-team/jdownloader # jdownloader-installer
+mystic-mirage/pycharm # pycharm pycharm-community
+nathan-renniewaldock/flux # fluxgui
+ondrej/php # php tidy webp zipcmp libgd3 libuv1 php7.0 php-gd dh-php
+pi-rho/security # znc cake nmap ndiff zenmap znc-dbg znc-dev znc-tcl
+plushuang-tw/uget-stable # uget
+smathot/cogscinl # qnotero opensesame expyriment python-qtpy python-pygaze
+teejee2008/ppa # ukuu aptik selene compared timeshift aptik-gtk conky-manager
+vajdics/netbeans-installer # netbeans-installer
+vala-team/ppa # valac valadoc libgee-0.8-2 vala-0.40-doc libgee-0.8-dev
+webupd8team/java # oracle-java8-installer oracle-java8-set-default oracle-java8-unlimited-jce-policy
+yannubuntu/boot-repair # boot-sav boot-info boot-repair glade2script clean-ubiquity

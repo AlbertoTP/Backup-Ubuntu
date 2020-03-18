@@ -1,0 +1,2601 @@
+
+# Do not edit - This list is not used for restore
+
+accountsservice # query and manipulate user account information
+accountwizard # wizard for KDE PIM applications account setup
+acl # Access control list utilities
+acpi-support # scripts for handling many ACPI events
+acpid # Advanced Configuration and Power Interface event daemon
+adduser # add and remove users and groups
+adwaita-icon-theme # default icon theme of GNOME (small subset)
+akonadi-backend-mysql # MySQL storage backend for Akonadi
+akonadi-server # Akonadi PIM storage service
+akregator # RSS/Atom feed aggregator
+alsa-base # ALSA driver configuration files
+alsa-utils # Utilities for configuring and using ALSA
+amarok # easy to use media player based on the KDE Platform
+amarok-common # architecture independent files for Amarok
+amarok-utils # utilities for Amarok media player
+amd64-microcode # Processor microcode firmware for AMD CPUs
+anacron # cron-like program that doesn't go by time
+apache2 # Apache HTTP Server
+apache2-bin # Apache HTTP Server (modules and other binary files)
+apache2-data # Apache HTTP Server (common files)
+apache2-utils # Apache HTTP Server (utility programs for web servers)
+apparmor # user-space parser utility for AppArmor
+apport # automatically generate crash reports for debugging
+apport-kde # KDE frontend for the apport crash report system
+apport-symptoms # symptom scripts for apport
+appstream # Software component metadata management
+apt # commandline package manager
+apt-transport-https # https download transport for APT
+apt-utils # package management related utility programs
+apt-xapian-index # maintenance and search tools for a Xapian index of Debian packages
+aptdaemon # transaction based package management service
+aptik # Aptik system migration utility
+aptik-gtk # System migration utility for Linux (GTK Frontend)
+aptitude # terminal-based package manager
+aptitude-common # architecture independent files for the aptitude package manager
+aptoncd # Installation disc creator for packages downloaded via APT
+apturl-common # install packages using the apt protocol - common data
+apturl-kde # install packages using the apt protocol - KDE frontend
+aria2 # High speed download utility
+ark # archive utility
+aspell # GNU Aspell spell-checker
+aspell-en # English dictionary for GNU Aspell
+at-spi2-core # Assistive Technology Service Provider Interface (dbus core)
+atom
+avahi-autoipd # Avahi IPv4LL network address configuration daemon
+avahi-daemon # Avahi mDNS/DNS-SD daemon
+baloo-kf5 # framework for searching and managing metadata
+baloo-utils # framework for searching and managing metadata.
+base-files # Debian base system miscellaneous files
+base-passwd # Debian base system master password and group files
+bash # GNU Bourne Again SHell
+bash-completion # programmable completion for the bash shell
+bc # GNU bc arbitrary precision calculator language
+bind9-host # Version of 'host' bundled with BIND 9.X
+binutils # GNU assembler, linker and binary utilities
+blt # graphics extension library for Tcl/Tk - run-time
+bluedevil # KDE Bluetooth stack
+bluez # Bluetooth tools and daemons
+bluez-cups # Bluetooth printer driver for CUPS
+bluez-obexd # bluez obex daemon
+breeze # Default Plasma theme (meta-package).
+breeze-cursor-theme # Default Plasma cursor theme.
+breeze-icon-theme # Default Plasma icon theme.
+bsdmainutils # collection of more utilities from FreeBSD
+bsdutils # basic utilities from 4.4BSD-Lite
+build-essential # Informational list of build-essential packages
+busybox-initramfs # Standalone shell setup for initramfs
+busybox-static # Standalone rescue shell with tons of builtin utilities
+bzip2 # high-quality block-sorting file compressor - utilities
+bzip2-doc # high-quality block-sorting file compressor - documentation
+ca-certificates # Common CA certificates
+ca-certificates-java # Common CA certificates (JKS keystore)
+catdoc # Convert Word, Excel, and PowerPoint files to plain text
+cdparanoia # audio extraction tool for sampling CDs
+cdrdao # records CDs in Disk-At-Once (DAO) mode
+cnijfilter2
+colord # system service to manage device colour profiles -- system daemon
+colord-data # system service to manage device colour profiles -- data files
+comix # GTK Comic Book Viewer
+command-not-found # Suggest installation of packages in interactive bash sessions
+command-not-found-data # Set of data files for command-not-found.
+compiz-core # OpenGL window and compositing manager
+compiz-plugins # OpenGL window and compositing manager - plugins
+compiz-plugins-default # OpenGL window and compositing manager - default plugins
+compizconfig-settings-manager # Compiz configuration settings manager
+console-setup # console font and keymap setup program
+console-setup-linux # Linux specific part of console-setup
+coreutils # GNU core utilities
+cpio # GNU cpio -- a program to manage archives of files
+cpp # GNU C preprocessor (cpp)
+cpp-5 # GNU C preprocessor
+cpu-checker # tools to help evaluate certain CPU (or BIOS) features
+cracklib-runtime # runtime support for password checker library cracklib2
+crda # wireless Central Regulatory Domain Agent
+cron # process scheduling daemon
+cryptsetup # disk encryption support - startup scripts
+cryptsetup-bin # disk encryption support - command line tools
+cups # Common UNIX Printing System(tm) - PPD/driver support, web interface
+cups-browsed # OpenPrinting CUPS Filters - cups-browsed
+cups-bsd # Common UNIX Printing System(tm) - BSD commands
+cups-client # Common UNIX Printing System(tm) - client programs (SysV)
+cups-common # Common UNIX Printing System(tm) - common files
+cups-core-drivers # Common UNIX Printing System(tm) - PPD-less printing
+cups-daemon # Common UNIX Printing System(tm) - daemon
+cups-filters # OpenPrinting CUPS Filters - Main Package
+cups-filters-core-drivers # OpenPrinting CUPS Filters - PPD-less printing
+cups-ppdc # Common UNIX Printing System(tm) - PPD manipulation utilities
+cups-server-common # Common UNIX Printing System(tm) - server common files
+curl # command line tool for transferring data with URL syntax
+cvs # Concurrent Versions System
+cvsps # Tool to generate CVS patch set information
+dash # POSIX-compliant shell
+dbconfig-common # framework that helps packages to manage databases
+dbconfig-mysql # dbconfig-common MySQL/MariaDB support
+dbus # simple interprocess messaging system (daemon and utilities)
+dbus-x11 # simple interprocess messaging system (X11 deps)
+dc # GNU dc arbitrary precision reverse-polish calculator
+dconf-gsettings-backend # simple configuration storage system - GSettings back-end
+dconf-service # simple configuration storage system - D-Bus service
+debconf # Debian configuration management system
+debconf-i18n # full internationalization support for debconf
+debconf-kde-data # Debconf KDE data files
+debianutils # Miscellaneous utilities specific to Debian
+default-jre # Standard Java or Java compatible Runtime
+default-jre-headless # Standard Java or Java compatible Runtime (headless)
+desktop-file-utils # Utilities for .desktop files
+dh-python # Debian helper tools for packaging Python libraries and applications
+dia # Diagram editor
+dia-common # Diagram editor (common files)
+dia-gnome # Diagram editor (GNOME version)
+dia-libs # Diagram editor (library files)
+dia-shapes # Diagram editor
+dictionaries-common # spelling dictionaries - common utilities
+diffstat # produces graph of changes introduced by a diff file
+diffutils # File comparison utilities
+dirmngr # server for managing certificate revocation lists
+discover # hardware identification system
+discover-data # Data lists for Discover hardware detection system
+distro-info-data # information about the distributions' releases (data files)
+dmidecode # SMBIOS/DMI table decoder
+dmsetup # Linux Kernel Device Mapper userspace library
+dns-root-data # DNS root data including root zone and DNSSEC key
+dnsmasq-base # Small caching DNS proxy and DHCP/TFTP server
+dnsutils # Clients provided with BIND
+docbook-xml # standard XML documentation system for software and systems
+docbook-xsl # stylesheets for processing DocBook XML to various output formats
+docutils-common # text processing system for reStructuredText - common data
+docutils-doc # text processing system for reStructuredText - documentation
+dolphin # file manager
+dosfstools # utilities for making and checking MS-DOS FAT filesystems
+dpkg # Debian package management system
+dpkg-dev # Debian package development tools
+dragonplayer # simple video player
+duplicity # encrypted bandwidth-efficient backup
+dvd+rw-tools # DVD+-RW/R tools
+e2fslibs # ext2/ext3/ext4 file system libraries
+e2fsprogs # ext2/ext3/ext4 file system utilities
+ed # classic UNIX line editor
+efibootmgr # Interact with the EFI Boot Manager
+eject # ejects CDs and operates CD-Changers under Linux
+emacs # GNU Emacs editor (metapackage)
+emacs24 # GNU Emacs editor (with GTK+ GUI support)
+emacs24-bin-common # GNU Emacs editor's shared, architecture dependent files
+emacs24-common # GNU Emacs editor's shared, architecture independent infrastructure
+emacs24-common-non-dfsg # GNU Emacs common non-DFSG items, including the core documentation
+emacs24-el # GNU Emacs LISP (.el) files
+emacsen-common # Common facilities for all emacsen
+enchant # Wrapper for various spell checker engines (binary programs)
+ethtool # display or change Ethernet device settings
+evolution-data-server-common # architecture independent files for Evolution Data Server
+fakeroot # tool for simulating superuser privileges
+fgetty # very small, efficient, console-only getty and login
+file # Determines file type using "magic" numbers
+findutils # utilities for finding files--find, xargs
+firefox # Safe and easy web browser from Mozilla
+firefox-locale-en # English language pack for Firefox
+flashplugin-installer # Adobe Flash Player plugin installer
+fluxgui # f.lux indicator applet is an indicator applet to control xflux, an
+fontconfig # generic font configuration library - support binaries
+fontconfig-config # generic font configuration library - configuration
+fonts-dejavu # metapackage to pull in fonts-dejavu-core and fonts-dejavu-extra
+fonts-dejavu-core # Vera font family derivate with additional characters
+fonts-dejavu-extra # Vera font family derivate with additional characters (extra variants)
+fonts-font-awesome # iconic font designed for use with Twitter Bootstrap
+fonts-freefont-ttf # Freefont Serif, Sans and Mono Truetype fonts
+fonts-guru # Meta package to install all Punjabi fonts
+fonts-guru-extra # Free fonts for Punjabi language
+fonts-kacst # KACST free TrueType Arabic fonts
+fonts-kacst-one # TrueType font designed for Arabic language
+fonts-khmeros-core # KhmerOS Unicode fonts for the Khmer language of Cambodia
+fonts-lao # TrueType font for Lao language
+fonts-lato # sans-serif typeface family font
+fonts-liberation # Fonts with the same metrics as Times, Arial and Courier
+fonts-lklug-sinhala # Unicode Sinhala font by Lanka Linux User Group
+fonts-lohit-guru # Lohit TrueType font for Punjabi Language
+fonts-lyx # TrueType versions of some TeX fonts used by LyX
+fonts-mathjax # JavaScript display engine for LaTeX and MathML (fonts)
+fonts-nanum # Nanum Korean fonts
+fonts-noto # metapackage to pull in all Noto fonts
+fonts-noto-cjk # "No Tofu" font families with large Unicode coverage (CJK)
+fonts-noto-hinted # "No Tofu" font families with large Unicode coverage (hinted)
+fonts-noto-mono # "No Tofu" monospaced font family with large Unicode coverage
+fonts-noto-unhinted # "No Tofu" font families with large Unicode coverage (unhinted)
+fonts-opensymbol # OpenSymbol TrueType font
+fonts-oxygen # Oxygen font family
+fonts-sil-abyssinica # smart Unicode font for Ethiopian and Erythrean scripts (Amharic et al.)
+fonts-sil-padauk # smart Unicode font for languages in Myanmar
+fonts-stix # Scientific and Technical Information eXchange fonts
+fonts-symbola # symbolic font providing emoji characters from Unicode 7.0
+fonts-takao-pgothic # Japanese TrueType font set, Takao P Gothic Fonts
+fonts-thai-tlwg # Thai fonts maintained by TLWG (metapackage)
+fonts-tibetan-machine # font for Tibetan, Dzongkha and Ladakhi (OpenType Unicode)
+fonts-tlwg-garuda # Thai Garuda font (dependency package)
+fonts-tlwg-garuda-ttf # Thai Garuda TrueType font
+fonts-tlwg-kinnari # Thai Kinnari font (dependency package)
+fonts-tlwg-kinnari-ttf # Thai Kinnari TrueType font
+fonts-tlwg-laksaman # Thai Laksaman font (dependency package)
+fonts-tlwg-laksaman-ttf # Thai Laksaman TrueType font
+fonts-tlwg-loma # Thai Loma font (dependency package)
+fonts-tlwg-loma-ttf # Thai Loma TrueType font
+fonts-tlwg-mono # Thai TlwgMono font (dependency package)
+fonts-tlwg-mono-ttf # Thai TlwgMono TrueType font
+fonts-tlwg-norasi # Thai Norasi font (dependency package)
+fonts-tlwg-norasi-ttf # Thai Norasi TrueType font
+fonts-tlwg-purisa # Thai Purisa font (dependency package)
+fonts-tlwg-purisa-ttf # Thai Purisa TrueType font
+fonts-tlwg-sawasdee # Thai Sawasdee font (dependency package)
+fonts-tlwg-sawasdee-ttf # Thai Sawasdee TrueType font
+fonts-tlwg-typewriter # Thai TlwgTypewriter font (dependency package)
+fonts-tlwg-typewriter-ttf # Thai TlwgTypewriter TrueType font
+fonts-tlwg-typist # Thai TlwgTypist font (dependency package)
+fonts-tlwg-typist-ttf # Thai TlwgTypist TrueType font
+fonts-tlwg-typo # Thai TlwgTypo font (dependency package)
+fonts-tlwg-typo-ttf # Thai TlwgTypo TrueType font
+fonts-tlwg-umpush # Thai Umpush font (dependency package)
+fonts-tlwg-umpush-ttf # Thai Umpush TrueType font
+fonts-tlwg-waree # Thai Waree font (dependency package)
+fonts-tlwg-waree-ttf # Thai Waree TrueType font
+foomatic-db-compressed-ppds # OpenPrinting printer support - Compressed PPDs derived from the database
+frameworkintegration # KF5 cross-framework integration plugins
+freerdp-x11 # RDP client for Windows Terminal Services (X11 client)
+friendly-recovery # Make recovery more user-friendly
+ftp # classical file transfer client
+fuse # Filesystem in Userspace
+fwupd # Firmware update daemon
+fwupdate # Tools to manage UEFI firmware updates
+fwupdate-signed # Linux Firmware Updater EFI signed binary
+g++ # GNU C++ compiler
+g++-5 # GNU C++ compiler
+gawk # GNU awk, a pattern scanning and processing language
+gcc # GNU C compiler
+gcc-5 # GNU C compiler
+gcc-5-base # GCC, the GNU Compiler Collection (base package)
+gcc-6-base # GCC, the GNU Compiler Collection (base package)
+gconf-service # GNOME configuration database system (D-Bus service)
+gconf-service-backend # GNOME configuration database system (D-Bus service)
+gconf2 # GNOME configuration database system (support tools)
+gconf2-common # GNOME configuration database system (common files)
+gcr # GNOME crypto services (daemon and tools)
+gdb # GNU Debugger
+gdbserver # GNU Debugger (remote server)
+gdebi # simple tool to view and install deb files - GNOME GUI
+gdebi-core # simple tool to install deb files
+gdisk # GPT fdisk text-mode partitioning tool
+geany # fast and lightweight IDE
+geany-common # fast and lightweight IDE -- common files
+genisoimage # Creates ISO-9660 CD-ROM filesystem images
+geoip-database # IP lookup command line tools that use the GeoIP library (country database)
+gettext # GNU Internationalization utilities
+gettext-base # GNU Internationalization utilities for the base system
+ghostscript # interpreter for the PostScript language and for PDF
+ghostscript-x # interpreter for the PostScript language and for PDF - X11 support
+gimp # The GNU Image Manipulation Program
+gimp-data # Data files for GIMP
+gir1.2-atk-1.0 # ATK accessibility toolkit (GObject introspection)
+gir1.2-freedesktop # Introspection data for some FreeDesktop components
+gir1.2-gdkpixbuf-2.0 # GDK Pixbuf library - GObject-Introspection
+gir1.2-glib-2.0 # Introspection data for GLib, GObject, Gio and GModule
+gir1.2-gtk-3.0 # GTK+ graphical user interface library -- gir bindings
+gir1.2-packagekitglib-1.0 # GObject introspection data for the PackageKit GLib library
+gir1.2-pango-1.0 # Layout and rendering of internationalized text - gir bindings
+gir1.2-vte-2.91 # GObject introspection data for the VTE library
+git # fast, scalable, distributed revision control system
+git-all # fast, scalable, distributed revision control system (all subpackages)
+git-cvs # fast, scalable, distributed revision control system (cvs interoperability)
+git-daemon-run # fast, scalable, distributed revision control system (git-daemon service)
+git-doc # fast, scalable, distributed revision control system (documentation)
+git-el # fast, scalable, distributed revision control system (emacs support)
+git-email # fast, scalable, distributed revision control system (email add-on)
+git-gui # fast, scalable, distributed revision control system (GUI)
+git-man # fast, scalable, distributed revision control system (manual pages)
+git-mediawiki # fast, scalable, distributed revision control system (MediaWiki remote helper)
+git-svn # fast, scalable, distributed revision control system (svn interoperability)
+gitk # fast, scalable, distributed revision control system (revision tree visualizer)
+gitweb # fast, scalable, distributed revision control system (web interface)
+gksu # graphical front-end to su and sudo
+glib-networking # network-related giomodules for GLib
+glib-networking-common # network-related giomodules for GLib - data files
+glib-networking-services # network-related giomodules for GLib - D-Bus services
+gnome-icon-theme # GNOME Desktop icon theme
+gnome-keyring # GNOME keyring services (daemon and tools)
+gnome-user-guide # GNOME user's guide
+gnupg # GNU privacy guard - a free PGP replacement
+gnupg-agent # GNU privacy guard - cryptographic agent
+gnupg2 # GNU privacy guard - a free PGP replacement (new v2.x)
+gparted # GNOME partition editor
+gpgsm # GNU privacy guard - S/MIME version
+gpgv # GNU privacy guard - signature verification tool
+grep # GNU grep, egrep and fgrep
+groff-base # GNU troff text-formatting system (base system components)
+growisofs # DVD+-RW/R recorder
+grub-common # GRand Unified Bootloader (common files)
+grub-gfxpayload-lists # GRUB gfxpayload blacklist
+grub-pc # GRand Unified Bootloader, version 2 (PC/BIOS version)
+grub-pc-bin # GRand Unified Bootloader, version 2 (PC/BIOS binaries)
+grub2-common # GRand Unified Bootloader (common files for version 2)
+gsettings-desktop-schemas # GSettings desktop-wide schemas
+gsfonts # Fonts for the Ghostscript interpreter(s)
+gsfonts-x11 # Make Ghostscript fonts available to X11
+gstreamer-qapt # GStreamer plugin to install codecs using QApt
+gstreamer1.0-nice # ICE library (GStreamer plugin)
+gstreamer1.0-plugins-base # GStreamer plugins from the "base" set
+gstreamer1.0-plugins-good # GStreamer plugins from the "good" set
+gstreamer1.0-pulseaudio # GStreamer plugin for PulseAudio
+gstreamer1.0-x # GStreamer plugins for X11 and Pango
+gtk2-engines-oxygen # Oxygen widget theme for GTK+-based applications
+gtk2-engines-pixbuf # pixbuf-based theme for GTK+ 2.x
+gtk3-engines-breeze # GTK theme built to match KDE's Breeze
+gvfs # userspace virtual filesystem - GIO module
+gvfs-bin # userspace virtual filesystem - binaries
+gvfs-common # userspace virtual filesystem - common data files
+gvfs-daemons # userspace virtual filesystem - servers
+gvfs-libs # userspace virtual filesystem - private libraries
+gwenview # image viewer
+gyp # Cross-platform build script generator
+gzip # GNU compression utilities
+hardening-includes # Makefile for enabling compiler flags for security hardening
+hardinfo # Displays system information
+hdparm # tune hard disk parameters for high performance
+hicolor-icon-theme # default fallback theme for FreeDesktop.org icon themes
+hostname # utility to set/show the host name or domain name
+hplip # HP Linux Printing and Imaging System (HPLIP)
+hplip-data # HP Linux Printing and Imaging - data files
+humanity-icon-theme # Humanity Icon theme
+hunspell-en-us # English_american dictionary for hunspell
+i965-va-driver # VAAPI driver for Intel G45 & HD Graphics family
+ibus-qt4 # qt-immodule for ibus (QT4) (plugin)
+icoutils # Create and extract MS Windows icons and cursors
+ieee-data # OUI and IAB listings
+ifupdown # high level tools to configure network interfaces
+im-config # Input method configuration framework
+imagemagick # image manipulation programs -- binaries
+imagemagick-6.q16 # image manipulation programs -- quantum depth Q16
+imagemagick-common # image manipulation programs -- infrastructure
+indicator-application # Application Indicators
+info # Standalone GNU Info documentation browser
+init # System-V-like init utilities - metapackage
+init-system-helpers # helper tools for all init systems
+initramfs-tools # generic modular initramfs generator (automation)
+initramfs-tools-bin # binaries used by initramfs-tools
+initramfs-tools-core # generic modular initramfs generator (core tools)
+initscripts # scripts for initializing and shutting down the system
+inkscape # vector-based drawing program
+inputattach # utility to connect serial-attached peripherals to the input subsystem
+insserv # boot sequence organizer using LSB init.d script dependency information
+install-info # Manage installed documentation in info format
+intel-microcode # Processor microcode firmware for Intel CPUs
+intltool-debian # Help i18n of RFC822 compliant config files
+ippusbxd # Daemon for IPP USB printer support
+iproute2 # networking and traffic control tools
+iptables # administration tools for packet filtering and NAT
+iputils-arping # Tool to send ICMP echo requests to an ARP address
+iputils-ping # Tools to test the reachability of network hosts
+iputils-tracepath # Tools to trace the network path to a remote host
+ipython # enhanced interactive Python shell
+ipython-qtconsole # enhanced interactive Python shell - Qt console
+ipython3 # enhanced interactive Python 3 shell
+ipython3-qtconsole # enhanced interactive Python 3 shell - Qt console
+irqbalance # Daemon to balance interrupts for SMP systems
+isc-dhcp-client # DHCP client for automatically obtaining an IP address
+isc-dhcp-common # common files used by all of the isc-dhcp packages
+iso-codes # ISO language, territory, currency, script codes and their translations
+iucode-tool # Intel processor microcode tool
+iw # tool for configuring Linux wireless devices
+java-common # Base package for Java runtimes
+javascript-common # Base support for JavaScript library packages
+k3b # Sophisticated CD/DVD burning application
+k3b-data # Sophisticated CD/DVD burning application - data files
+k3b-i18n # Sophisticated CD/DVD burning application - localizations files
+kaccounts-integration # System to administer web accounts
+kaccounts-providers # KDE providers for accounts sign-on
+kactivities # Runtime to organize the user work in separate activities.
+kaddressbook # address book and contact data manager
+kamera # digital camera support for KDE applications
+kate # powerful text editor
+kate-data # shared data files for Kate text editor
+kate5-data # shared data files for Kate text editor
+katepart # embeddable text editor component
+kbd # Linux console font and keytable utilities
+kcalc # simple and scientific calculator
+kde-baseapps-bin # core binaries for the KDE base applications
+kde-baseapps-data # shared data files for the KDE base applications
+kde-cli-tools # tools to use KDE services from the command line
+kde-cli-tools-data # tools to use kioslaves from the command line
+kde-config-gtk-style # KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection
+kde-config-gtk-style-preview # KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection (extras)
+kde-config-mailtransport # mail transport service KCM
+kde-config-screenlocker # KCM Module for kscreenlocker
+kde-config-sddm # KCM module for SDDM
+kde-config-telepathy-accounts # KDE Control Module for managing Telepathy Accounts
+kde-config-whoopsie # Configuration for Whoopsie
+kde-l10n-engb # en_GB (engb) localization for KDE
+kde-runtime # runtime components from the official KDE release
+kde-runtime-data # shared data files for the KDE base runtime module
+kde-spectacle # Screenshot capture utility, replaces KSnapshot
+kde-style-breeze # Widget style for Qt and KDE Software
+kde-style-breeze-qt4 # Widget style for Qt 4 and KDE Software
+kde-style-oxygen-qt5 # Qt decoration for the Oxygen desktop theme
+kde-style-qtcurve-qt4 # QtCurve widget style for applications based on Qt 4.x
+kde-style-qtcurve-qt5 # QtCurve widget style for applications based on Qt 5.x
+kde-telepathy # metapackage for installing all the KDE Telepathy components
+kde-telepathy-approver # KDED module for approving incoming conversations
+kde-telepathy-auth-handler # KDE Telepathy authentication handler
+kde-telepathy-contact-list # Telepathy contact list for the KDE Plasma Desktop
+kde-telepathy-data # Shared data for all the KDE Telepathy components
+kde-telepathy-desktop-applets # KDE Telepathy contact plasmoid
+kde-telepathy-filetransfer-handler # KDE Telepathy file transfer handler
+kde-telepathy-integration-module # Telepathy integration module for the KDE Workspace
+kde-telepathy-kaccounts # kaccounts plugins for kde-telepathy
+kde-telepathy-kpeople # kpeople plugins for kde-telepathy
+kde-telepathy-minimal # metapackage for installing the basic KDE Telepathy components
+kde-telepathy-send-file # KDE Telepathy dolphin/konqueror integration plugin
+kde-telepathy-text-ui # Telepathy text chat UI for the KDE Plasma Desktop
+kdeconnect # connect smartphones to your KDE Plasma Workspace
+kdeconnect-plasma # connect smartphones to your KDE Plasma desktop
+kded5 # Extensible daemon for providing session services
+kdegraphics-strigi-analyzer # graphics file format plugins for Strigi Desktop Search
+kdelibs-bin # core executables for KDE Applications
+kdelibs5-data # core shared data for all KDE Applications
+kdelibs5-plugins # core plugins for KDE Applications
+kdemultimedia-kio-plugins # transitional package for kio-audiocd
+kdenetwork-filesharing # network filesharing configuration module
+kdepim-doc # KDE Personal Information Management library documentation
+kdepim-runtime # runtime components for Akonadi KDE
+kdepimlibs-data # kdepimlibs - data files
+kdepimlibs-kio-plugins # kio slaves used by KDE PIM applications
+kdeplasma-addons-data # locale files for kdeplasma-addons
+kdesudo # sudo frontend for KDE
+kdoctools # various tools for accessing application documentation
+kdoctools5 # Tools to generate documentation in various formats from DocBook
+kerneloops-daemon # kernel oops tracker
+keyboard-configuration # system-wide keyboard preferences
+kgamma5 # monitor calibration panel for KDE
+khelpcenter # KDE documentation viewer
+khotkeys # configure input actions settings
+khotkeys-data # configure input actions settings
+kimageformat-plugins # This framework provides additional image format plugins for QtGui.
+kinfocenter # overview of your system library
+kinit # process launcher to speed up launching KDE applications
+kio # Resource and network access abstraction.
+kio-audiocd # transparent audio CD access for applications using the KDE Platform
+kio-extras # Extra functionality for kioslaves.
+kio-extras-data # Extra functionality for kioslaves data files.
+kio-mtp # access to MTP devices for applications using the KDE Platform
+klibc-utils # small utilities built with klibc for early boot
+kmail # full featured graphical email client
+kmenuedit # XDG menu editor
+kmod # tools for managing Linux kernel modules
+knotes # sticky notes application
+konsole # X terminal emulator
+konsole-kpart # Konsole plugin for Qt applications
+kontact # integrated application for personal information management
+konversation # user friendly Internet Relay Chat (IRC) client for KDE
+konversation-data # data files for Konversation
+korganizer # calendar and personal organizer
+kpackagelauncherqml # commandline tool for launching kpackage QML application
+kpackagetool5 # command line kpackage tool
+krb5-locales # Internationalization support for MIT Kerberos
+krdc # Remote Desktop Connection client
+kross # Multi-language application scripting.
+kscreen # KDE monitor hotplug and screen handling
+ksshaskpass # interactively prompt users for a passphrase for ssh-add
+ksysguard # process monitor and system statistics
+ksysguard-data # library for monitoring your system - shared library
+ksysguardd # System Guard Daemon
+ksystemlog # system log viewer
+ktexteditor-data # provide advanced plain text editing services
+ktexteditor-katepart # provide advanced plain text editing services
+ktnef # Viewer for mail attachments using TNEF format
+ktorrent # BitTorrent client based on the KDE platform
+ktorrent-data # KTorrent data and other architecture independent files
+kubuntu-driver-manager # Driver Manager for Kubuntu
+kubuntu-notification-helper # Kubuntu system notification helper
+kubuntu-settings-desktop # Settings and artwork for the Kubuntu (Desktop)
+kubuntu-web-shortcuts # web shortcuts for Kubuntu, Ubuntu, Launchpad
+kwalletmanager # secure password wallet manager
+kwayland-data # Qt library wrapper for Wayland libraries - data files
+kwayland-integration # kwayland runtime integration plugins
+kwin # Transitional dummy for kwin-x11
+kwin-addons # additional desktop and window switchers for KWin
+kwin-common # KDE window manager, common files
+kwin-data # KDE window manager data files
+kwin-style-breeze # KWin Breeze Style
+kwin-x11 # KDE window manager, X11 version
+kwrited # Read and write console output to X.
+language-pack-en # translation updates for language English
+language-pack-en-base # translations for language English
+language-pack-gnome-en # GNOME translation updates for language English
+language-pack-gnome-en-base # GNOME translations for language English
+language-pack-kde-en # KDE translation meta package for language en_GB
+language-selector-common # Language selector for Ubuntu
+laptop-detect # attempt to detect a laptop
+less # pager program similar to more
+liba52-0.7.4 # library for decoding ATSC A/52 streams
+libaa1 # ASCII art library
+libaacs0 # free-and-libre implementation of AACS
+libabw-0.1-1v5 # library for reading and writing AbiWord(tm) documents
+libaccounts-glib0 # library for single signon
+libaccounts-qt5-1 # QT library for single sign on
+libaccountsservice0 # query and manipulate user account information - shared libraries
+libacl1 # Access control list shared library
+libaec0 # Adaptive Entropy Coding library
+libaio1 # Linux kernel AIO access library - shared library
+libakonadi-kde4 # library for using the Akonadi PIM data server
+libakonadi-kmime4 # Akonadi MIME handling library
+libakonadiprotocolinternals1 # libraries for the Akonadi PIM storage service
+libalgorithm-diff-perl # module to find differences between files
+libalgorithm-diff-xs-perl # module to find differences between files (XS accelerated)
+libalgorithm-merge-perl # Perl module for three-way merge of textual data
+libamd2.4.1 # approximate minimum degree ordering library for sparse matrices
+libao-common # Cross Platform Audio Output Library (Common files)
+libao4 # Cross Platform Audio Output Library
+libapache2-mod-php # server-side, HTML-embedded scripting language (Apache 2 module) (default)
+libapache2-mod-php7.2 # server-side, HTML-embedded scripting language (Apache 2 module)
+libapparmor-perl # AppArmor library Perl bindings
+libapparmor1 # changehat AppArmor library
+libappindicator1 # Application Indicators
+libappindicator3-1 # Application Indicators
+libappstream-glib8 # GNOME library to access AppStream services
+libappstream3 # Library to access AppStream services
+libappstreamqt1 # Qt5 library to access AppStream services
+libapr1 # Apache Portable Runtime Library
+libaprutil1 # Apache Portable Runtime Utility Library
+libaprutil1-dbd-sqlite3 # Apache Portable Runtime Utility Library - SQLite3 Driver
+libaprutil1-ldap # Apache Portable Runtime Utility Library - LDAP Driver
+libapt-inst2.0 # deb package format runtime library
+libapt-pkg-perl # Perl interface to libapt-pkg
+libapt-pkg5.0 # package management runtime library
+libarchive-zip-perl # Perl module for manipulation of ZIP archives
+libarchive13 # Multi-format archive and compression library (shared library)
+libargon2-0 # memory-hard hashing function - runtime library
+libart-2.0-2 # Library of functions for 2D graphics - runtime files
+libasan2 # AddressSanitizer -- a fast memory error detector
+libasn1-8-heimdal # Heimdal Kerberos - ASN.1 library
+libasound2 # shared library for ALSA applications
+libasound2-data # Configuration files and profiles for ALSA drivers
+libasound2-plugins # ALSA library additional plugins
+libaspell15 # GNU Aspell spell-checker runtime library
+libasprintf-dev # GNU Internationalization library development files
+libasprintf0v5 # GNU library to use fprintf and friends in C++
+libass5 # library for SSA/ASS subtitles rendering
+libassuan0 # IPC library for the GnuPG components
+libasyncns0 # Asynchronous name service query library
+libatasmart4 # ATA S.M.A.R.T. reading and parsing library
+libatk-bridge2.0-0 # AT-SPI 2 toolkit bridge - shared library
+libatk1.0-0 # ATK accessibility toolkit
+libatk1.0-data # Common files for the ATK accessibility toolkit
+libatkmm-1.6-1v5 # C++ wrappers for ATK accessibility toolkit (shared libraries)
+libatm1 # shared library for ATM (Asynchronous Transfer Mode)
+libatomic1 # support library providing __atomic built-in functions
+libatspi2.0-0 # Assistive Technology Service Provider Interface - shared library
+libattica0.4 # Qt library that implements the Open Collaboration Services API
+libattr1 # Extended attribute shared library
+libaudio2 # Network Audio System - shared libraries
+libaudit-common # Dynamic library for security auditing - common files
+libaudit1 # Dynamic library for security auditing
+libauthen-sasl-perl # Authen::SASL - SASL Authentication framework
+libavahi-client3 # Avahi client library
+libavahi-common-data # Avahi common data files
+libavahi-common3 # Avahi common library
+libavahi-core7 # Avahi's embeddable mDNS/DNS-SD library
+libavahi-glib1 # Avahi GLib integration library
+libavahi-gobject0 # Avahi GObject library
+libavc1394-0 # control IEEE 1394 audio/video devices
+libavcodec-ffmpeg56 # FFmpeg library with de/encoders for audio/video codecs - runtime files
+libavformat-ffmpeg56 # FFmpeg library with (de)muxers for multimedia containers - runtime files
+libavutil-ffmpeg54 # FFmpeg library with functions for simplifying programming - runtime files
+libbabeltrace-ctf1 # Common Trace Format (CTF) library
+libbabeltrace1 # Babeltrace conversion libraries
+libbabl-0.1-0 # Dynamic, any to any, pixel format conversion library
+libbaloocore4 # Core funcationality for Baloo
+libbaloofiles4 # Files funcationality for Baloo
+libbalooxapian4 # Xapian funcationality for Baloo
+libbasicusageenvironment1 # multimedia RTSP streaming library (BasicUsageEnvironment class)
+libbdplus0 # implementation of BD+ for reading Blu-ray Discs
+libbind9-140 # BIND9 Shared Library used by BIND
+libblas-common # Dependency package for all BLAS implementations
+libblas3 # Basic Linear Algebra Reference implementations, shared library
+libblkid1 # block device ID library
+libbluetooth3 # Library to use the BlueZ Linux Bluetooth stack
+libbluray1 # Blu-ray disc playback support library (shared library)
+libbonobo2-0 # Bonobo CORBA interfaces library
+libbonobo2-common # Bonobo CORBA interfaces library -- support files
+libbonoboui2-0 # Bonobo UI library - runtime
+libbonoboui2-common # Bonobo UI library - common files
+libboost-date-time1.58.0 # set of date-time libraries based on generic programming concepts
+libboost-filesystem1.58.0 # filesystem operations (portable paths, iteration over directories, etc) in C++
+libboost-iostreams1.58.0 # Boost.Iostreams Library
+libboost-system1.58.0 # Operating system (e.g. diagnostics support) library
+libboost-thread1.58.0 # portable C++ multi-threading
+libbsd0 # utility functions from BSD systems - shared library
+libbz2-1.0 # high-quality block-sorting file compressor library - runtime
+libbz2-dev # high-quality block-sorting file compressor library - development
+libc-ares2 # asynchronous name resolver
+libc-bin # GNU C Library: Binaries
+libc-dev-bin # GNU C Library: Development binaries
+libc6 # GNU C Library: Shared libraries
+libc6-dbg # GNU C Library: detached debugging symbols
+libc6-dev # GNU C Library: Development Libraries and Header Files
+libcaca0 # colour ASCII art library
+libcairo-gobject2 # Cairo 2D vector graphics library (GObject library)
+libcairo-perl # Perl interface to the Cairo graphics library
+libcairo2 # Cairo 2D vector graphics library
+libcairomm-1.0-1v5 # C++ wrappers for Cairo (shared libraries)
+libcamd2.4.1 # symmetric approximate minimum degree library for sparse matrices
+libcamel-1.2-54 # Evolution MIME message handling library
+libcanberra-pulse # PulseAudio backend for libcanberra
+libcanberra0 # simple abstract interface for playing event sounds
+libcap-ng0 # An alternate POSIX capabilities library
+libcap2 # POSIX 1003.1e capabilities (library)
+libcap2-bin # POSIX 1003.1e capabilities (utilities)
+libcapnp-0.5.3 # Cap'n Proto C++ library
+libcc1-0 # GCC cc1 plugin for GDB
+libccolamd2.9.1 # constrained column approximate library for sparse matrices
+libcddb2 # library to access CDDB data - runtime files
+libcdio13 # library to read and control CD-ROM
+libcdparanoia0 # audio extraction tool for sampling CDs (library)
+libcdr-0.1-1 # library for reading and converting Corel DRAW files
+libcgi-fast-perl # CGI subclass for work with FCGI
+libcgi-pm-perl # module for Common Gateway Interface applications
+libchm1 # library for dealing with Microsoft CHM files
+libcholmod3.0.6 # sparse Cholesky factorization library for sparse matrices
+libchromaprint0 # audio fingerprint library
+libcilkrts5 # Intel Cilk Plus language extensions (runtime)
+libclass-accessor-perl # Perl module that automatically generates accessors
+libclass-factory-util-perl # utility method for factory classes
+libclass-singleton-perl # implementation of a "Singleton" class
+libcln6 # Class Library for Numbers (C++)
+libclone-perl # module for recursively copying Perl datatypes
+libclucene-contribs1v5 # language specific text analyzers (runtime)
+libclucene-core1v5 # core library for full-featured text search engine (runtime)
+libcmis-0.5-5v5 # CMIS protocol client library
+libcolamd2.9.1 # column approximate minimum degree ordering library for sparse matrices
+libcolord2 # system service to manage device colour profiles -- runtime
+libcolorhug2 # library to access the ColorHug colourimeter -- runtime
+libcomerr2 # common error description library
+libcommon-sense-perl # module that implements some sane defaults for Perl programs
+libcompizconfig0 # Settings library for plugins - OpenCompositing Project
+libcrack2 # pro-active password checker library
+libcroco3 # Cascading Style Sheet (CSS) parsing and manipulation toolkit
+libcryptsetup4 # disk encryption support - shared library
+libcrystalhd3 # Crystal HD Video Decoder (shared library)
+libcups2 # Common UNIX Printing System(tm) - Core library
+libcupscgi1 # Common UNIX Printing System(tm) - CGI library
+libcupsfilters1 # OpenPrinting CUPS Filters - Shared library
+libcupsimage2 # Common UNIX Printing System(tm) - Raster image library
+libcupsmime1 # Common UNIX Printing System(tm) - MIME library
+libcupsppdc1 # Common UNIX Printing System(tm) - PPD manipulation library
+libcurl3 # easy-to-use client-side URL transfer library (OpenSSL flavour)
+libcurl3-gnutls # easy-to-use client-side URL transfer library (GnuTLS flavour)
+libcurl4-openssl-dev # development files and documentation for libcurl (OpenSSL flavour)
+libcwidget3v5 # high-level terminal interface library for C++ (runtime files)
+libdaemon0 # lightweight C library for daemons - runtime library
+libdata-alias-perl # module to create aliases instead of copies
+libdatetime-format-builder-perl # module to create DateTime parsers
+libdatetime-format-iso8601-perl # module to parse ISO8601 date and time formats
+libdatetime-format-strptime-perl # Perl module to parse and format strp and strf time patterns
+libdatetime-locale-perl # Perl extension providing localization support for DateTime
+libdatetime-perl # module for manipulating dates, times and timestamps
+libdatetime-timezone-perl # framework exposing the Olson time zone database to Perl
+libdatrie1 # Double-array trie library
+libdb5.3 # Berkeley v5.3 Database Libraries [runtime]
+libdbd-sqlite3-perl # Perl DBI driver with a self-contained RDBMS
+libdbi-perl # Perl Database Interface (DBI)
+libdbus-1-3 # simple interprocess messaging system (library)
+libdbus-glib-1-2 # simple interprocess messaging system (GLib-based shared library)
+libdbusmenu-glib4 # library for passing menus over DBus
+libdbusmenu-gtk3-4 # library for passing menus over DBus - GTK+ version
+libdbusmenu-gtk4 # library for passing menus over DBus - GTK+ version
+libdbusmenu-qt2 # Qt implementation of the DBusMenu protocol
+libdbusmenu-qt5 # Qt5 implementation of the DBusMenu protocol
+libdc1394-22 # high level programming interface for IEEE 1394 digital cameras
+libdca0 # decoding library for DTS Coherent Acoustics streams
+libdconf1 # simple configuration storage system - runtime library
+libdebconf-kde1 # Debconf KDE GUI library
+libdebconfclient0 # Debian Configuration Management System (C-implementation library)
+libdecoration0 # Compiz window decoration library
+libdevmapper1.02.1 # Linux Kernel Device Mapper userspace library
+libdfu1 # Firmware update daemon library for DFU support
+libdigest-hmac-perl # module for creating standard message integrity checks
+libdirectfb-1.2-9 # direct frame buffer graphics - shared libraries
+libdiscover2 # hardware identification library
+libdjvulibre-text # Linguistic support files for libdjvulibre
+libdjvulibre21 # Runtime support for the DjVu image format
+libdlrestrictions1 # library that implements library compatibility checks for dlopen()
+libdmtx0a # Data Matrix barcodes (runtime library)
+libdns-export162 # Exported DNS Shared Library
+libdns162 # DNS Shared Library used by BIND
+libdolphinvcs5 # library to show version control in Dolphin
+libdouble-conversion1v5 # routines to convert IEEE floats to and from strings
+libdpkg-perl # Dpkg perl modules
+libdrm-amdgpu1 # Userspace interface to amdgpu-specific kernel DRM services -- runtime
+libdrm-common # Userspace interface to kernel DRM services -- common files
+libdrm-dev # Userspace interface to kernel DRM services -- development files
+libdrm-intel1 # Userspace interface to intel-specific kernel DRM services -- runtime
+libdrm-nouveau2 # Userspace interface to nouveau-specific kernel DRM services -- runtime
+libdrm-radeon1 # Userspace interface to radeon-specific kernel DRM services -- runtime
+libdrm2 # Userspace interface to kernel DRM services -- runtime
+libdsdp-5.8gf # Software for Semidefinite Programming
+libdv4 # software library for DV format digital video (runtime lib)
+libdvbpsi10 # library for MPEG TS and DVB PSI tables decoding and generating
+libdvdnav4 # DVD navigation library
+libdvdread4 # library for reading DVDs
+libe-book-0.1-1 # library for reading and converting various  e-book formats
+libebackend-1.2-10 # Utility library for evolution data servers
+libebml4v5 # access library for the EBML format (shared library)
+libebook-1.2-16 # Client library for evolution address books
+libebook-contacts-1.2-2 # Client library for evolution contacts books
+libedata-book-1.2-25 # Backend library for evolution address books
+libedataserver-1.2-21 # Utility library for evolution data servers
+libedit2 # BSD editline and history libraries
+libefivar0 # Library to manage UEFI variables
+libegl1-mesa # free implementation of the EGL API -- runtime
+libelf1 # library to read and write ELF files
+libemail-valid-perl # Perl module for checking the validity of Internet email addresses
+libenchant1c2a # Wrapper library for various spell checker engines (runtime libs)
+libencode-locale-perl # utility to determine the locale encoding
+libeot0 # Library for parsing/converting Embedded OpenType files
+libepoxy0 # OpenGL function pointer management library
+libept1.5.0 # High-level library for managing Debian package information
+libepub0 # library to work with the EPUB file format - runtime library
+liberror-perl # Perl module for error/exception handling in an OO-ish way
+libestr0 # Helper functions for handling strings (lib)
+libetonyek-0.1-1 # library for reading and converting Apple Keynote presentations
+libevdev2 # wrapper library for evdev devices
+libevent-core-2.0-5 # Asynchronous event notification library (core)
+libexif12 # library to parse EXIF files
+libexiv2-14 # EXIF/IPTC/XMP metadata manipulation library
+libexpat1 # XML parsing C library - runtime library
+libexpat1-dev # XML parsing C library - development kit
+libexporter-tiny-perl # tiny exporter similar to Sub::Exporter
+libexttextcat-2.0-0 # Language detection library
+libexttextcat-data # Language detection library - data files
+libfaad2 # freeware Advanced Audio Decoder - runtime files
+libfakekey0 # library for converting characters to X key-presses [runtime]
+libfakeroot # tool for simulating superuser privileges - shared libraries
+libfam0 # Client library to control the FAM daemon
+libfarstream-0.2-5 # Audio/Video communications framework: core library
+libfcgi-perl # helper module for FastCGI
+libfdisk1 # fdisk partitioning library
+libffi-dev # Foreign Function Interface library (development files)
+libffi6 # Foreign Function Interface library runtime
+libfftw3-double3 # Library for computing Fast Fourier Transforms - Double precision
+libfftw3-single3 # Library for computing Fast Fourier Transforms - Single precision
+libfile-basedir-perl # Perl module to use the freedesktop basedir specification
+libfile-copy-recursive-perl # Perl extension for recursively copying files and directories
+libfile-desktopentry-perl # Perl module to handle freedesktop .desktop files
+libfile-fcntllock-perl # Perl module for file locking with fcntl(2)
+libfile-listing-perl # module to parse directory listings
+libfile-mimeinfo-perl # Perl module to determine file types
+libflac++6v5 # Free Lossless Audio Codec - C++ runtime library
+libflac8 # Free Lossless Audio Codec - runtime C library
+libfont-afm-perl # Font::AFM - Interface to Adobe Font Metrics files
+libfontconfig1 # generic font configuration library - runtime
+libfontembed1 # OpenPrinting CUPS Filters - Font Embed Shared library
+libfontenc1 # X11 font encoding library
+libfreehand-0.1-1 # Library for parsing the FreeHand file format structure
+libfreerdp-cache1.1 # Free Remote Desktop Protocol library (cache library)
+libfreerdp-client1.1 # Free Remote Desktop Protocol library (client library)
+libfreerdp-codec1.1 # Free Remote Desktop Protocol library (codec library)
+libfreerdp-common1.1.0 # Free Remote Desktop Protocol library (common library)
+libfreerdp-core1.1 # Free Remote Desktop Protocol library (core library)
+libfreerdp-crypto1.1 # Free Remote Desktop Protocol library (freerdp-crypto library)
+libfreerdp-gdi1.1 # Free Remote Desktop Protocol library (GDI library)
+libfreerdp-locale1.1 # Free Remote Desktop Protocol library (locale library)
+libfreerdp-plugins-standard # RDP client for Windows Terminal Services (plugins)
+libfreerdp-primitives1.1 # Free Remote Desktop Protocol library (primitives library)
+libfreerdp-rail1.1 # Free Remote Desktop Protocol library (rail library)
+libfreerdp-utils1.1 # Free Remote Desktop Protocol library (freerdp-utils library)
+libfreetype6 # FreeType 2 font engine, shared library files
+libfribidi0 # Free Implementation of the Unicode BiDi algorithm
+libfuse2 # Filesystem in Userspace (library)
+libfwup0 # Library to manage UEFI firmware updates
+libfwupd1 # Firmware update daemon library
+libgail18 # GNOME Accessibility Implementation Library -- shared libraries
+libgbm1 # generic buffer management API -- runtime
+libgc1c2 # conservative garbage collector for C and C++
+libgcab-1.0-0 # Microsoft Cabinet file manipulation library
+libgcc-5-dev # GCC support library (development files)
+libgcc1 # GCC support library
+libgck-1-0 # Glib wrapper library for PKCS#11 - runtime
+libgconf-2-4 # GNOME configuration database system (shared libraries)
+libgcr-3-common # Library for Crypto UI related tasks - common files
+libgcr-base-3-1 # Library for Crypto related tasks
+libgcr-ui-3-1 # Library for Crypto UI related tasks
+libgcrypt20 # LGPL Crypto library - runtime library
+libgd3 # GD Graphics Library
+libgdbm3 # GNU dbm database routines (runtime version)
+libgdk-pixbuf2.0-0 # GDK Pixbuf library
+libgdk-pixbuf2.0-common # GDK Pixbuf library - data files
+libgee-0.8-2 # GObject based collection and utility library
+libgegl-0.3-0 # Generic Graphics Library
+libgeoip1 # non-DNS IP-to-country resolver library
+libgettextpo-dev # GNU Internationalization library development files
+libgettextpo0 # GNU Internationalization library
+libgfortran3 # Runtime library for GNU Fortran applications
+libgif7 # library for GIF images (library)
+libgimp2.0 # Libraries for the GNU Image Manipulation Program
+libgirepository-1.0-1 # Library for handling GObject introspection data (runtime library)
+libgit2-24 # low-level Git library
+libgksu2-0 # library providing su and sudo functionality
+libgl1-mesa-dev # free implementation of the OpenGL API -- GLX development files
+libgl1-mesa-dri # free implementation of the OpenGL API -- DRI modules
+libgl1-mesa-glx # free implementation of the OpenGL API -- GLX runtime
+libglade2-0 # library to load .glade files at runtime
+libglapi-mesa # free implementation of the GL API -- shared library
+libglew1.13 # OpenGL Extension Wrangler - runtime environment
+libglib-perl # interface to the GLib and GObject libraries
+libglib2.0-0 # GLib library of C routines
+libglib2.0-data # Common files for GLib library
+libglibmm-2.4-1v5 # C++ wrapper for the GLib toolkit (shared libraries)
+libglpk36 # linear programming kit with integer (MIP) support
+libglu1-mesa # Mesa OpenGL utility library (GLU)
+libglu1-mesa-dev # Mesa OpenGL utility library -- development files
+libgme0 # Playback library for video game music files - shared library
+libgmp10 # Multiprecision arithmetic library
+libgnome-2-0 # The GNOME library - runtime files
+libgnome-keyring-common # GNOME keyring services library - data files
+libgnome-keyring0 # GNOME keyring services library
+libgnome2-0 # The GNOME library - transition package
+libgnome2-bin # The GNOME library - binary files
+libgnome2-common # The GNOME library - common files
+libgnomecanvas2-0 # powerful object-oriented display engine - runtime files
+libgnomecanvas2-common # powerful object-oriented display engine - common files
+libgnomeui-0 # GNOME user interface library - runtime files
+libgnomeui-common # GNOME user interface library - common files
+libgnomevfs2-0 # GNOME Virtual File System (runtime libraries)
+libgnomevfs2-common # GNOME Virtual File System (common files)
+libgnomevfs2-extra # GNOME Virtual File System (extra modules)
+libgnutls-openssl27 # GNU TLS library - OpenSSL wrapper
+libgnutls30 # GNU TLS library - main runtime library
+libgomp1 # GCC OpenMP (GOMP) support library
+libgpg-error0 # library for common error values and messages in GnuPG components
+libgpgme11 # GPGME - GnuPG Made Easy (library)
+libgphoto2-6 # gphoto2 digital camera library
+libgphoto2-l10n # gphoto2 digital camera library - localized messages
+libgphoto2-port12 # gphoto2 digital camera port library
+libgpm2 # General Purpose Mouse - shared library
+libgpod-common # common files for libgpod
+libgpod4 # library to read and write songs and artwork to an iPod
+libgps22 # Global Positioning System - library
+libgrantlee-templates5 # Grantlee templating library for Qt - Core
+libgrantlee-textdocument5 # Grantlee templating library for Qt - GUI
+libgraphite2-3 # Font rendering engine for Complex Scripts -- library
+libgroupsock8 # multimedia RTSP streaming library (network interfaces and sockets)
+libgs9 # interpreter for the PostScript language and for PDF - Library
+libgs9-common # interpreter for the PostScript language and for PDF - common files
+libgsl2 # GNU Scientific Library (GSL) -- library package
+libgsm1 # Shared libraries for GSM speech compressor
+libgssapi-krb5-2 # MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+libgssapi3-heimdal # Heimdal Kerberos - GSSAPI support library
+libgssdp-1.0-3 # GObject-based library for SSDP
+libgstreamer-plugins-base1.0-0 # GStreamer libraries from the "base" set
+libgstreamer-plugins-good1.0-0 # GStreamer development files for libraries from the "good" set
+libgstreamer1.0-0 # Core GStreamer libraries and elements
+libgtk-3-0 # GTK+ graphical user interface library
+libgtk-3-bin # programs for the GTK+ graphical user interface library
+libgtk-3-common # common files for the GTK+ graphical user interface library
+libgtk2-perl # Perl interface to the 2.x series of the Gimp Toolkit library
+libgtk2.0-0 # GTK+ graphical user interface library
+libgtk2.0-bin # programs for the GTK+ graphical user interface library
+libgtk2.0-common # common files for the GTK+ graphical user interface library
+libgtkmm-2.4-1v5 # C++ wrappers for GTK+ (shared libraries)
+libgtkspell0 # a spell-checking addon for GTK's TextView widget
+libgtop-2.0-10 # gtop system monitoring library (shared)
+libgtop2-common # gtop system monitoring library (common)
+libgudev-1.0-0 # GObject-based wrapper library for libudev
+libgupnp-1.0-4 # GObject-based library for UPnP
+libgupnp-igd-1.0-4 # library to handle UPnP IGD port mapping
+libgusb2 # GLib wrapper around libusb1
+libgutenprint2 # runtime for the Gutenprint printer driver library
+libharfbuzz-icu0 # OpenType text shaping engine ICU backend
+libharfbuzz0b # OpenType text shaping engine (shared library)
+libhcrypto4-heimdal # Heimdal Kerberos - crypto library
+libhdf5-10 # Hierarchical Data Format 5 (HDF5) - runtime files - serial version
+libheimbase1-heimdal # Heimdal Kerberos - Base library
+libheimntlm0-heimdal # Heimdal Kerberos - NTLM support library
+libhogweed4 # low level cryptographic library (public-key cryptos)
+libhpmud0 # HP Multi-Point Transport Driver (hpmud) run-time libraries
+libhsqldb1.8.0-java # Java SQL database engine
+libhtml-form-perl # module that represents an HTML form element
+libhtml-format-perl # module for transforming HTML into various formats
+libhtml-parser-perl # collection of modules that parse HTML text documents
+libhtml-tagset-perl # Data tables pertaining to HTML
+libhtml-template-perl # module for using HTML templates with Perl
+libhtml-tree-perl # Perl module to represent and create HTML syntax trees
+libhttp-cookies-perl # HTTP cookie jars
+libhttp-daemon-perl # simple http server class
+libhttp-date-perl # module of date conversion routines
+libhttp-message-perl # perl interface to HTTP style messages
+libhttp-negotiate-perl # implementation of content negotiation
+libhttp-parser2.1 # parser for HTTP messages written in C
+libhunspell-1.3-0 # spell checker and morphological analyzer (shared library)
+libhx509-5-heimdal # Heimdal Kerberos - X509 support library
+libhyphen0 # ALTLinux hyphenation library - shared library
+libibus-1.0-5 # Intelligent Input Bus - shared library
+libibus-qt1 # qt-immodule for ibus (QT4) (library)
+libical1a # iCalendar library implementation in C (runtime)
+libice6 # X11 Inter-Client Exchange library
+libicu52 # International Components for Unicode
+libicu55 # International Components for Unicode
+libidl-2-0 # library for parsing CORBA IDL files
+libidn11 # GNU Libidn library, implementation of IETF IDN specifications
+libiec61883-0 # an partial implementation of IEC 61883
+libieee1284-3 # cross-platform library for parallel port access
+libijs-0.35 # IJS raster image transport protocol: shared library
+libilmbase12 # several utility libraries from ILM used by OpenEXR
+libimage-magick-perl # Perl interface to the ImageMagick graphics routines
+libimage-magick-q16-perl # Perl interface to the ImageMagick graphics routines -- Q16 version
+libimobiledevice6 # Library for communicating with the iPhone and iPod Touch
+libindicator3-7 # panel indicator applet - shared library
+libindicator7 # panel indicator applet - shared library
+libinput-bin # input device management and event handling library - udev quirks
+libinput10 # input device management and event handling library - shared library
+libio-html-perl # open an HTML file with automatic charset detection
+libio-pty-perl # Perl module for pseudo tty IO
+libio-socket-inet6-perl # object interface for AF_INET6 domain sockets
+libio-socket-ssl-perl # Perl module implementing object oriented interface to SSL sockets
+libio-string-perl # Emulate IO::File interface for in-core strings
+libipc-run-perl # Perl module for running processes
+libipc-system-simple-perl # Perl module to run commands simply, with detailed diagnostics
+libisc-export160 # Exported ISC Shared Library
+libisc160 # ISC Shared Library used by BIND
+libisccc140 # Command Channel Library used by BIND
+libisccfg140 # Config File Handling Library used by BIND
+libisl15 # manipulating sets and relations of integer points bounded by linear constraints
+libiso9660-8 # library to work with ISO9660 filesystems
+libitm1 # GNU Transactional Memory Library
+libiw30 # Wireless tools - library
+libjack-jackd2-0 # JACK Audio Connection Kit (libraries)
+libjasper1 # JasPer JPEG-2000 runtime library
+libjavascriptcoregtk-4.0-18 # JavaScript engine library from WebKitGTK+
+libjbig0 # JBIGkit libraries
+libjbig2dec0 # JBIG2 decoder library - shared libraries
+libjpeg-turbo8 # IJG JPEG compliant runtime library.
+libjpeg8 # Independent JPEG Group's JPEG runtime library (dependency package)
+libjs-excanvas # HTML5 Canvas for Internet Explorer
+libjs-inherits # Exposes inherits function from Node.js environment
+libjs-jquery # JavaScript library for dynamic web applications
+libjs-jquery-ui # JavaScript UI library for dynamic web applications
+libjs-mathjax # JavaScript display engine for LaTeX and MathML
+libjs-modernizr # JavaScript library to detect HTML5 and CSS3 features in the user's browser
+libjs-node-uuid # simple, fast generation of RFC4122 UUIDs - JavaScript library
+libjs-sphinxdoc # JavaScript support for Sphinx documentation
+libjs-underscore # JavaScript's functional programming helper library
+libjson-c2 # JSON manipulation library - shared library
+libjson-glib-1.0-0 # GLib JSON manipulation library
+libjson-glib-1.0-common # GLib JSON manipulation library (common files)
+libjson-perl # module for manipulating JSON-formatted data
+libjson-xs-perl # module for manipulating JSON-formatted data (C/XS-accelerated)
+libk3b6 # KDE CD/DVD burning application library - runtime files
+libk3b6-extracodecs # KDE CD/DVD burning application library - extra decoders
+libk5crypto3 # MIT Kerberos runtime libraries - Crypto Library
+libkabc4 # library for handling address book data
+libkaccounts1 # System to administer web accounts - shared library
+libkactivities6 # Activities library
+libkate1 # Codec for karaoke and text encapsulation
+libkatepartinterfaces4 # library for the embeddable text editor component
+libkcalcore4 # library for handling calendar data
+libkcddb4 # CDDB library for KDE Platform (runtime)
+libkcmutils4 # utility classes for using KCM modules
+libkcompactdisc4 # CD drive library for KDE Platform (runtime)
+libkde3support4 # KDE 3 Support Library for the KDE 4 Platform
+libkdeclarative5 # declarative library for plasma
+libkdecorations2-5v5 # library to create window decorations
+libkdecorations2private5v5 # library to create window decorations - private library
+libkdecore5 # KDE Platform Core Library
+libkdesu5 # Console-mode Authentication Library for the KDE Platform
+libkdeui5 # KDE Platform User Interface Library
+libkdewebkit5 # KDE WebKit Library
+libkdnssd4 # DNS-SD Protocol Library for the KDE Platform
+libkemoticons4 # utility classes to deal with emoticon themes
+libkexiv2-11v5 # Qt like interface for the libexiv2 library
+libkexiv2-data # Qt-like interface for the libexiv2 library -- data files
+libkeyutils1 # Linux Key Management Utilities (library)
+libkf5activities5 # Library to organize the user work in separate activities.
+libkf5activitiesexperimentalstats1 # Tools and widgets for the desktop library
+libkf5akonadiagentbase5 # Akonadi agent base library
+libkf5akonadicalendar5 # library providing calendar helpers for Akonadi items
+libkf5akonadicontact5 # Akonadi contacts access library
+libkf5akonadicore-bin # Tools for Akonadi core library
+libkf5akonadicore5 # Akonadi core library
+libkf5akonadimime5 # Akonadi MIME handling library
+libkf5akonadinotes5 # Akonadi notes access library
+libkf5akonadiprivate5 # libraries for the Akonadi PIM storage service
+libkf5akonadisearchdebug5 # Akonadi search debug library
+libkf5akonadisearchpim5 # Akonadi search library
+libkf5akonadiwidgets5 # Akonadi widgets library
+libkf5alarmcalendar5 # library for handling kalarm calendar data
+libkf5archive5 # Qt 5 addon providing access to numerous types of archives
+libkf5attica5 # Qt library that implements the Open Collaboration Services API
+libkf5auth-data # Abstraction to system policy and authentication features
+libkf5auth5 # Abstraction to system policy and authentication features
+libkf5baloo5 # framework for searching and managing metadata core lib.
+libkf5balooengine5 # framework for searching and managing metadata plugins
+libkf5baloowidgets-bin # Wigets for use with Baloo - binaries
+libkf5baloowidgets5 # Wigets for use with Baloo
+libkf5bluezqt-data # data files for bluez-qt
+libkf5bluezqt6 # Qt wrapper for bluez
+libkf5bookmarks-data # Qt library with support for bookmarks and the XBEL format.
+libkf5bookmarks5 # Qt library with support for bookmarks and the XBEL format.
+libkf5calendarcore5 # calendar access framework
+libkf5calendarevents5 # provides integration of QML and KDE frameworks
+libkf5calendarsupport5 # calendar support library
+libkf5calendarutils5 # library with utility functions for the handling of calendar data
+libkf5codecs-data # collection of methods to manipulate strings
+libkf5codecs5 # collection of methods to manipulate strings
+libkf5completion-data # Widgets with advanced auto-completion features.
+libkf5completion5 # Widgets with advanced auto-completion features.
+libkf5config-bin # configuration settings framework for Qt
+libkf5config-data # configuration settings framework for Qt
+libkf5configcore5 # configuration settings framework for Qt
+libkf5configgui5 # configuration settings framework for Qt
+libkf5configwidgets-data # Extra widgets for easier configuration support.
+libkf5configwidgets5 # Extra widgets for easier configuration support.
+libkf5contacts-data # data files for kcontacts
+libkf5contacts5 # address book API for KDE frameworks
+libkf5coreaddons-data # KDE Frameworks 5 addons to QtCore - data files
+libkf5coreaddons5 # KDE Frameworks 5 addons to QtCore
+libkf5crash5 # Support for application crash analysis and bug report from apps
+libkf5dbusaddons-bin # class library for qtdbus
+libkf5dbusaddons-data # class library for qtdbus
+libkf5dbusaddons5 # class library for qtdbus
+libkf5declarative-data # provides integration of QML and KDE frameworks
+libkf5declarative5 # provides integration of QML and KDE frameworks
+libkf5dnssd-data # Abstraction to system DNSSD features.
+libkf5dnssd5 # Abstraction to system DNSSD features.
+libkf5emoticons-bin # Support for emoticons and emoticons themes.
+libkf5emoticons-data # Support for emoticons and emoticons themes.
+libkf5emoticons5 # Support for emoticons and emoticons themes.
+libkf5eventviews5 # event viewing library
+libkf5filemetadata-bin # library for extracting file metadata
+libkf5filemetadata-data # library for extracting file metadata
+libkf5filemetadata3 # library for extracting file metadata
+libkf5followupreminder5 # follow up reminder library
+libkf5gapi-data # Google API library for KDE -- data files
+libkf5gapicalendar5 # library to integrate with Google Calendar service API
+libkf5gapicontacts5 # library to integrate with Google Contacts service API
+libkf5gapicore5 # core library to integrate with Google service APIs
+libkf5gapidrive5 # library to integrate with Google Drive service API
+libkf5gapitasks5 # library to integrate with Google Tasks service API
+libkf5globalaccel-bin # Configurable global shortcut support.
+libkf5globalaccel-data # Configurable global shortcut support.
+libkf5globalaccel5 # Configurable global shortcut support.
+libkf5globalaccelprivate5 # Configurable global shortcut support - private runtime library
+libkf5gpgmepp-pthread5 # c++ wrapper library for gpgme
+libkf5gpgmepp5 # c++ wrapper library for gpgme
+libkf5gravatar5 # gravatar library
+libkf5guiaddons5 # additional addons for QtGui
+libkf5holidays-data # holidays calculation library
+libkf5holidays5 # holidays calculation library
+libkf5i18n-data # Advanced internationalization framework.
+libkf5i18n5 # Advanced internationalization framework.
+libkf5iconthemes-bin # Support for icon themes
+libkf5iconthemes-data # Support for icon themes.
+libkf5iconthemes5 # Support for icon themes.
+libkf5identitymanagement5 # library for managing user identities
+libkf5idletime5 # library to provide information about idle time
+libkf5imap5 # library for handling IMAP data
+libkf5incidenceeditorsng5 # incidence editors library
+libkf5itemmodels5 # additional item/view models for Qt Itemview
+libkf5itemviews-data # Qt library with additional widgets for ItemModels
+libkf5itemviews5 # Qt library with additional widgets for ItemModels
+libkf5jobwidgets-data # Widgets for tracking KJob instances
+libkf5jobwidgets5 # Widgets for tracking KJob instances
+libkf5js5 # Support for JS scripting in Qt applications
+libkf5jsembed-data # Embedded JS library for Qt
+libkf5jsembed5 # Embedded JS library for Qt
+libkf5kcmutils-data # Extra APIs to write KConfig modules.
+libkf5kcmutils5 # Extra APIs to write KConfig modules.
+libkf5kdcraw5 # RAW picture decoding library
+libkf5kdelibs4support-data # Porting aid from KDELibs4.
+libkf5kdelibs4support5 # Porting aid from KDELibs4.
+libkf5kdelibs4support5-bin # Porting aid from KDELibs4.
+libkf5kdepimdbusinterfaces5 # KDE PIM D-Bus interfaces library
+libkf5kdgantt2-5 # Gantt chart library
+libkf5khtml-bin # HTML widget and component
+libkf5khtml-data # HTML widget and component
+libkf5khtml5 # HTML widget and component
+libkf5kiocore5 # Resource and network access abstraction.
+libkf5kiofilewidgets5 # Resource and network access abstraction.
+libkf5kiontlm5 # Resource and network access abstraction.
+libkf5kiowidgets5 # Resource and network access abstraction.
+libkf5kipi-data # KDE Image Plugin Interface library -- data files
+libkf5kipi30.0.0 # KDE Image Plugin Interface library
+libkf5kmanagesieve5 # Sieve script remote management library
+libkf5kontactinterface-data # Kontact interface library - data files
+libkf5kontactinterface5 # Kontact interface library
+libkf5krosscore5 # Multi-language application scripting.
+libkf5krossui5 # Multi-language application scripting.
+libkf5ksieve5 # Sieve, the mail filtering language, library
+libkf5ksieveui5 # Sieve, the mail filtering language, GUI library
+libkf5ldap5 # library for accessing LDAP
+libkf5libkdepim5 # KDE PIM library
+libkf5libkleo5 # certificate based crypto library
+libkf5mailcommon5 # email utility library
+libkf5mailimporter5 # mailimporter library
+libkf5mailtransport-data # mail transport service library - data files
+libkf5mailtransport5 # mail transport service library
+libkf5mbox5 # library for handling mbox mailboxes
+libkf5messagecomposer5 # message composer library
+libkf5messagecore5 # message core library
+libkf5messagelist5 # message list library
+libkf5messageviewer5 # message viewer library
+libkf5mime5 # library for handling MIME data
+libkf5modemmanagerqt6 # Qt wrapper library for ModemManager
+libkf5networkmanagerqt6 # Qt wrapper for NetworkManager - library
+libkf5newstuff-data # Support for downloading application assets from the network.
+libkf5newstuff5 # Support for downloading application assets from the network.
+libkf5noteshared5 # notes support library
+libkf5notifications-data # Framework for desktop notifications
+libkf5notifications5 # Framework for desktop notifications
+libkf5notifyconfig-data # Configuration system for KNotify.
+libkf5notifyconfig5 # Configuration system for KNotify.
+libkf5package-data # non-binary asset management framework
+libkf5package5 # non-binary asset management framework
+libkf5parts-data # Document centric plugin system.
+libkf5parts-plugins # Document centric plugin system.
+libkf5parts5 # Document centric plugin system.
+libkf5people-data # data files for kpeople
+libkf5people5 # framework providing unified access to contacts aggregated by person
+libkf5peoplebackend5 # framework providing unified access to contacts aggregated by person
+libkf5peoplewidgets5 # framework providing unified access to contacts aggregated by person
+libkf5pimcommon5 # library for common bits of KDEPIM
+libkf5pimtextedit5 # library that provides a textedit with PIM-specific features
+libkf5plasma5 # Plasma Runtime components
+libkf5plasmaquick5 # Plasma Runtime components
+libkf5prison1 # barcode API for Qt
+libkf5pty-data # Pty abstraction.
+libkf5pty5 # Pty abstraction.
+libkf5qgpgme5 # library for GpgME++ integration with Qt
+libkf5quickaddons5 # provides integration of QML and KDE frameworks
+libkf5runner5 # Used to write plugins loaded at runtime called "Runners".
+libkf5screen-bin # library for screen management - helpers
+libkf5screen6 # library for screen management - shared library
+libkf5sendlater5 # send later library
+libkf5service-bin # Advanced plugin and service introspection
+libkf5service-data # Advanced plugin and service introspection
+libkf5service5 # Advanced plugin and service introspection
+libkf5solid5 # Qt library to query and control hardware
+libkf5solid5-data # Qt library to query and control hardware
+libkf5sonnet5-data # spell checking library for Qt
+libkf5sonnetcore5 # spell checking library for Qt
+libkf5sonnetui5 # spell checking library for Qt
+libkf5style5 # KF5 cross-framework integration plugins - KStyle
+libkf5su-bin # runtime files for kdesu
+libkf5su-data # translation files for kdesu
+libkf5su5 # Integration with su for elevated privileges.
+libkf5syndication5 # parser library for RSS and Atom feeds
+libkf5sysguard-bin # library for monitoring your system - shared library
+libkf5sysguard-data # library for monitoring your system - shared library
+libkf5templateparser5 # KMail template parser library
+libkf5texteditor5 # provide advanced plain text editing services
+libkf5texteditor5-libjs-underscore # Bridge package for libjs-underscore
+libkf5textwidgets-data # Advanced text editing widgets.
+libkf5textwidgets5 # Advanced text editing widgets.
+libkf5threadweaver5 # ThreadWeaver library to help multithreaded programming.in Qt
+libkf5tnef5 # library for handling TNEF data
+libkf5unitconversion-data # Support for unit conversion.
+libkf5unitconversion5 # Support for unit conversion.
+libkf5wallet-bin # Secure and unified container for user passwords.
+libkf5wallet-data # Secure and unified container for user passwords.
+libkf5wallet5 # Secure and unified container for user passwords.
+libkf5waylandclient5 # Qt library wrapper for Wayland libraries
+libkf5waylandserver5 # Qt library wrapper for Wayland libraries
+libkf5webkit5 # KDE Integration for QtWebKit.
+libkf5widgetsaddons-data # add-on widgets and classes for applications that use the Qt Widgets module
+libkf5widgetsaddons5 # add-on widgets and classes for applications that use the Qt Widgets module
+libkf5windowsystem-data # Convenience access to certain properties and features of the window manager
+libkf5windowsystem5 # Convenience access to certain properties and features of the window manager
+libkf5xmlgui-bin # User configurable main windows.
+libkf5xmlgui-data # User configurable main windows.
+libkf5xmlgui5 # User configurable main windows.
+libkf5xmlrpcclient-data # data files for kxmlrpcclient
+libkf5xmlrpcclient5 # framework providing an xml rpc client library
+libkfile4 # File Selection Dialog Library for KDE Platform
+libkfilemetadata4 # library for extracting file metadata
+libkfontinst5 # Tools and widgets for the desktop library
+libkfontinstui5 # Tools and widgets for the desktop library
+libkhtml5 # KHTML Web Content Rendering Engine
+libkidletime4 # library to provide information about idle time
+libkio5 # Network-enabled File Management Library for the KDE Platform
+libkjsapi4 # KJS API Library for the KDE Development Platform
+libkjsembed4 # library for binding JavaScript objects to QObjects
+libkldap4 # library for accessing LDAP
+libklibc # minimal libc subset for use with initramfs
+libkmediaplayer4 # KMediaPlayer Interface for the KDE Platform
+libkmime4 # library for handling MIME data
+libkmod2 # libkmod shared library
+libknewstuff2-4 # "Get Hot New Stuff" v2 Library for the KDE Platform
+libknewstuff3-4 # "Get Hot New Stuff" v3 Library for the KDE Platform
+libknotifyconfig4 # library for configuring KDE Notifications
+libkntlm4 # NTLM Authentication Library for the KDE Platform
+libkolab1 # Maps KDE containers to Kolab formats
+libkolabxml1v5 # Kolab XML format (shared library)
+libkonq-common # core Konqueror library - support files
+libkonq5-templates # data files for the Konqueror libraries
+libkparts4 # Framework for the KDE Platform Graphical Components
+libkpimutils4 # library for dealing with email addresses
+libkprintutils4 # utility classes to deal with printing
+libkpty4 # Pseudo Terminal Library for the KDE Platform
+libkrb5-26-heimdal # Heimdal Kerberos - libraries
+libkrb5-3 # MIT Kerberos runtime libraries
+libkrb5support0 # MIT Kerberos runtime libraries - Support library
+libkresources4 # KDE Resource framework library
+libkrosscore4 # Kross Core Library
+libksane-data # scanner library (data files)
+libksane0 # scanner library (runtime)
+libksba8 # X.509 and CMS support library
+libkscreenlocker5 # Secure lock screen architecture
+libksgrd7 # library for monitoring your system - shared library
+libksignalplotter7 # library for monitoring your system - shared library
+libktexteditor4 # KTextEditor interfaces for the KDE Platform
+libktorrent-l10n # localization files for the KTorrent library
+libktorrent5 # KTorrent library for C++ / Qt 4 / KDE Platform
+libktpcommoninternals9 # KDE Telepathy common internal library
+libktplogger9 # KDE Telepathy internal logger library
+libktpmodels9 # KDE Telepathy data models internal library
+libktpotr9 # KDE Telepathy internal OTR library
+libktpwidgets9 # KDE Telepathy common internal widgets library
+libkubuntu1 # library for Kubuntu platform integration
+libkwalletbackend5-5 # Secure and unified container for user passwords.
+libkwin4-effect-builtins1 # KDE window manager effect builtins library
+libkwineffects7 # KDE window manager effects library
+libkwinglutils7 # KDE window manager gl utils library
+libkwinxrenderutils7 # KDE window manager render utils library
+libkworkspace5-5 # Plasma Workspace for KF5 library
+libkxmlrpcclient4 # simple XML-RPC client library
+liblangtag-common # library to access tags for identifying languages -- data
+liblangtag1 # library to access tags for identifying languages
+liblapack3 # Library of linear algebra routines 3 - shared version
+liblastfm1 # Last.fm web services library (Qt4 build)
+liblcms2-2 # Little CMS 2 color management library
+liblcms2-utils # Little CMS 2 color management library (utilities)
+libldap-2.4-2 # OpenLDAP libraries
+libldb1 # LDAP-like embedded database - shared library
+liblircclient0 # infra-red remote control support - client library
+liblist-moreutils-perl # Perl module with additional list functions not found in List::Util
+liblivemedia50 # multimedia RTSP streaming library
+libllvm3.8 # Modular compiler and toolchain technologies, runtime library
+libllvm5.0 # Modular compiler and toolchain technologies, runtime library
+liblmdb0 # Lightning Memory-Mapped Database shared library
+liblocale-gettext-perl # module using libc functions for internationalization in Perl
+liblockfile-bin # support binaries for and cli utilities based on liblockfile
+liblockfile1 # NFS-safe locking library
+libloudmouth1-0 # Lightweight C Jabber library
+liblouis-data # Braille translation library - data
+liblouis9 # Braille translation library - shared libs
+liblouisutdml-bin # Braille UTDML translation utilities
+liblouisutdml-data # Braille UTDML translation library - data
+liblouisutdml6 # Braille UTDML translation library - shared libs
+liblqr-1-0 # converts plain array images into multi-size representation
+liblsan0 # LeakSanitizer -- a memory leak detector (runtime)
+libltdl7 # System independent dlopen wrapper for GNU libtool
+liblua5.1-0 # Shared library for the Lua interpreter version 5.1
+liblua5.2-0 # Shared library for the Lua interpreter version 5.2
+liblwp-mediatypes-perl # module to guess media type for a file or a URL
+liblwp-protocol-https-perl # HTTPS driver for LWP::UserAgent
+liblwres141 # Lightweight Resolver Library used by BIND
+liblz4-1 # Fast LZ compression algorithm library - runtime
+liblzma5 # XZ-format compression library
+liblzo2-2 # data compression library
+libm17n-0 # multilingual text processing library - runtime
+libmad0 # MPEG audio decoder library
+libmagic1 # File type determination library using "magic" numbers
+libmagick++-6.q16-5v5 # object-oriented C++ interface to ImageMagick
+libmagickcore-6.q16-2 # low-level image manipulation library -- quantum depth Q16
+libmagickcore-6.q16-2-extra # low-level image manipulation library - extra codecs (Q16)
+libmagickwand-6.q16-2 # image manipulation library
+libmailtools-perl # Manipulate email in perl programs
+libmatroska6v5 # extensible open standard audio/video container format (shared library)
+libmbim-glib4 # Support library to use the MBIM protocol
+libmbim-proxy # Proxy to communicate with MBIM ports
+libmcrypt4 # De-/Encryption Library
+libmeanwhile1 # open implementation of the Lotus Sametime Community Client protocol
+libmediawiki-api-perl # Perl interface to the MediaWiki API
+libmhash2 # Library for cryptographic hashing and message authentication
+libmirclient9 # Display server for Ubuntu - client library
+libmircommon5 # Display server for Ubuntu - shared library
+libmircommon7 # Display server for Ubuntu - shared library
+libmircore1 # Display server for Ubuntu - shared library
+libmirprotobuf3 # Display server for Ubuntu - RPC definitions
+libmission-control-plugins0 # management daemon for Telepathy (library for plugins)
+libmm-glib0 # D-Bus service for managing modems - shared libraries
+libmng2 # Multiple-image Network Graphics library
+libmnl0 # minimalistic Netlink communication library
+libmodplug1 # shared libraries for mod music based on ModPlug
+libmodule-implementation-perl # module for loading one of several alternate implementations of a module
+libmodule-runtime-perl # Perl module for runtime module handling
+libmount1 # device mounting library
+libmp3lame0 # MP3 encoding library
+libmpc3 # multiple precision complex floating-point library
+libmpcdec6 # MusePack decoder - library
+libmpdec2 # library for decimal floating point arithmetic (runtime library)
+libmpeg2-4 # MPEG1 and MPEG2 video decoder library
+libmpfr4 # multiple precision floating-point computation
+libmpx0 # Intel memory protection extensions (runtime)
+libmspub-0.1-1 # library for parsing the mspub file structure
+libmtdev1 # Multitouch Protocol Translation Library - shared library
+libmtp-common # Media Transfer Protocol (MTP) common files
+libmtp-runtime # Media Transfer Protocol (MTP) runtime tools
+libmtp9 # Media Transfer Protocol (MTP) library
+libmusicbrainz5cc2v5 # Library to access the MusicBrainz.org database
+libmwaw-0.3-3 # import library for some old Mac text documents
+libmygpo-qt1 # mygpo-qt library package
+libmysqlclient-dev # MySQL database development files
+libmysqlclient20 # MySQL database client library
+libmythes-1.2-0 # simple thesaurus library
+libncurses5 # shared libraries for terminal handling
+libncurses5-dev # developer's libraries for ncurses
+libncursesw5 # shared libraries for terminal handling (wide character support)
+libndp0 # Library for Neighbor Discovery Protocol
+libneon27-gnutls # HTTP and WebDAV client library (GnuTLS enabled)
+libnet-dbus-perl # Perl extension for the DBus bindings
+libnet-dns-perl # Perform DNS queries from a Perl script
+libnet-domain-tld-perl # list of currently available Top-level Domains (TLDs)
+libnet-http-perl # module providing low-level HTTP connection client
+libnet-ip-perl # Perl extension for manipulating IPv4/IPv6 addresses
+libnet-libidn-perl # Perl bindings for GNU Libidn
+libnet-smtp-ssl-perl # Perl module providing SSL support to Net::SMTP
+libnet-ssleay-perl # Perl module for Secure Sockets Layer (SSL)
+libnetfilter-conntrack3 # Netfilter netlink-conntrack library
+libnetpbm10 # Graphics conversion tools shared libraries
+libnettle6 # low level cryptographic library (symmetric and one-way cryptos)
+libnewt0.52 # Not Erik's Windowing Toolkit - text mode windowing with slang
+libnfnetlink0 # Netfilter netlink library
+libnice10 # ICE library (shared library)
+libnih1 # NIH Utility Library
+libnl-3-200 # library for dealing with netlink sockets
+libnl-genl-3-200 # library for dealing with netlink sockets - generic netlink
+libnl-route-3-200 # library for dealing with netlink sockets - route interface
+libnm-glib4 # network management framework (GLib shared library)
+libnm-util2 # network management framework (shared library)
+libnm0 # GObject-based client library for NetworkManager
+libnorm1 # NACK-Oriented Reliable Multicast (NORM) library
+libnotify4 # sends desktop notifications to a notification daemon
+libnpth0 # replacement for GNU Pth using system threads
+libnspr4 # NetScape Portable Runtime Library
+libnss-mdns # NSS module for Multicast DNS name resolution
+libnss3 # Network Security Service libraries
+libnss3-nssdb # Network Security Security libraries - shared databases
+libntrack-qt4-1 # Qt 4 API for ntrack
+libntrack0 # lightweight connectivity tracking library
+libnuma1 # Libraries for controlling NUMA policy
+libodfgen-0.1-1 # library to generate ODF documents
+libogg0 # Ogg bitstream library
+libokularcore7 # libraries for the Okular document viewer
+libopenconnect5 # open client for Cisco AnyConnect VPN - shared library
+libopenexr22 # runtime files for the OpenEXR image library
+libopenjpeg5 # JPEG 2000 image compression/decompression library - runtime
+libopus0 # Opus codec runtime library
+liborbit-2-0 # high-performance CORBA implementation - common libraries
+liborbit2 # high-performance CORBA implementation - extra libraries
+liborc-0.4-0 # Library of Optimized Inner Loops Runtime Compiler
+liborcus-0.10-0v5 # library for processing spreadsheet documents
+libotf0 # Library for handling OpenType Font - runtime
+libotr5 # Off-the-Record Messaging library
+liboxygenstyle5-5 # style library for the Oxygen desktop theme
+liboxygenstyleconfig5-5 # style library configuration for the Oxygen desktop theme
+libp11-kit-gnome-keyring # GNOME keyring module for the PKCS#11 module loading library
+libp11-kit0 # library for loading and coordinating access to PKCS#11 modules - runtime
+libpackage-deprecationmanager-perl # module for managing deprecation warnings for Perl distributions
+libpackage-stash-perl # module providing routines for manipulating stashes
+libpackage-stash-xs-perl # Perl module providing routines for manipulating stashes (XS version)
+libpackagekit-glib2-16 # Library for accessing PackageKit using GLib
+libpackagekitqt5-0 # Library for accessing PackageKit using Qt5
+libpagemaker-0.0-0 # Library for importing and converting PageMaker Documents
+libpam-gnome-keyring # PAM module to unlock the GNOME keyring upon login
+libpam-kwallet4 # KWallet (KDE 4) integration with PAM
+libpam-kwallet5 # KWallet (Kf5) integration with PAM
+libpam-modules # Pluggable Authentication Modules for PAM
+libpam-modules-bin # Pluggable Authentication Modules for PAM - helper binaries
+libpam-runtime # Runtime support for the PAM library
+libpam-systemd # system and service manager - PAM module
+libpam0g # Pluggable Authentication Modules library
+libpango-1.0-0 # Layout and rendering of internationalized text
+libpango-perl # Perl module to layout and render international text
+libpango1.0-0 # Layout and rendering of internationalized text (transitional package)
+libpangocairo-1.0-0 # Layout and rendering of internationalized text
+libpangoft2-1.0-0 # Layout and rendering of internationalized text
+libpangomm-1.4-1v5 # C++ Wrapper for pango (shared libraries)
+libpangox-1.0-0 # pango library X backend
+libpangoxft-1.0-0 # Layout and rendering of internationalized text
+libpaper-utils # library for handling paper characteristics (utilities)
+libpaper1 # library for handling paper characteristics
+libparams-classify-perl # Perl module for argument type classification
+libparams-util-perl # Perl extension for simple stand-alone param checking functions
+libparams-validate-perl # Perl module to validate parameters to Perl method/function calls
+libparse-debianchangelog-perl # parse Debian changelogs and output them in other formats
+libparted-fs-resize0 # disk partition manipulator - shared FS resizing library
+libparted2 # disk partition manipulator - shared library
+libpcap0.8 # system interface for user-level packet capture
+libpci3 # Linux PCI Utilities (shared library)
+libpciaccess0 # Generic PCI access library for X
+libpcre16-3 # Perl 5 Compatible Regular Expression Library - 16 bit runtime files
+libpcre2-8-0 # New Perl Compatible Regular Expression Library- 8 bit runtime files
+libpcre3 # Perl 5 Compatible Regular Expression Library - runtime files
+libpcsclite1 # Middleware to access a smart card using PC/SC (library)
+libperl4-corelibs-perl # libraries historically supplied with Perl 4
+libperl5.22 # shared Perl library
+libperlio-gzip-perl # module providing a PerlIO layer to gzip/gunzip
+libpgm-5.2-0 # OpenPGM shared library
+libphonon4 # multimedia framework from KDE - core library
+libphonon4qt5-4 # multimedia framework from KDE using Qt 5 - core library
+libpipeline1 # pipeline manipulation library
+libpixman-1-0 # pixel-manipulation library for X and cairo
+libplasma-geolocation-interface5 # Plasma Workspace for KF5 library
+libplasma3 # Plasma Library for the KDE Platform
+libplist3 # Library for handling Apple binary and XML property lists
+libplymouth4 # graphical boot animation and logger - shared libraries
+libpng12-0 # PNG library - runtime
+libpolkit-agent-1-0 # PolicyKit Authentication Agent API
+libpolkit-backend-1-0 # PolicyKit backend API
+libpolkit-gobject-1-0 # PolicyKit Authorization API
+libpolkit-qt-1-1 # PolicyKit-qt-1 library
+libpolkit-qt5-1-1 # PolicyKit-qt5-1 library
+libpoppler-glib8 # PDF rendering library (GLib-based shared library)
+libpoppler-qt4-4 # PDF rendering library (Qt 4 based shared library)
+libpoppler-qt5-1 # PDF rendering library (Qt 5 based shared library)
+libpoppler58 # PDF rendering library
+libpopt0 # lib for parsing cmdline parameters
+libpostproc-ffmpeg53 # FFmpeg library for post processing - runtime files
+libpowerdevilcore2 # Global power saver settings ui library.
+libpowerdevilui5 # Global power saver settings ui library.
+libprocesscore7 # library for monitoring your system - shared library
+libprocessui7 # library for monitoring your system - shared library
+libprocps4 # library for accessing process information from /proc
+libprotobuf-lite9v5 # protocol buffers C++ library (lite version)
+libprotobuf9v5 # protocol buffers C++ library
+libproxy-tools # automatic proxy configuration management library (tools)
+libproxy1v5 # automatic proxy configuration management library (shared)
+libpthread-stubs0-dev # pthread stubs not provided by native libc, development files
+libpulse-mainloop-glib0 # PulseAudio client libraries (glib support)
+libpulse0 # PulseAudio client libraries
+libpulsedsp # PulseAudio OSS pre-load library
+libpurple-bin # multi-protocol instant messaging library - extra utilities
+libpurple0 # multi-protocol instant messaging library
+libpwquality-common # library for password quality checking and generation (data files)
+libpwquality1 # library for password quality checking and generation
+libpython-all-dev # package depending on all supported Python development packages
+libpython-dev # header files and a static library for Python (default)
+libpython-stdlib # interactive high-level object-oriented language (default python version)
+libpython2.7 # Shared Python runtime library (version 2.7)
+libpython2.7-dev # Header files and a static library for Python (v2.7)
+libpython2.7-minimal # Minimal subset of the Python language (version 2.7)
+libpython2.7-stdlib # Interactive high-level object-oriented language (standard library, version 2.7)
+libpython3-dev # header files and a static library for Python (default)
+libpython3-stdlib # interactive high-level object-oriented language (default python3 version)
+libpython3.5 # Shared Python runtime library (version 3.5)
+libpython3.5-dev # Header files and a static library for Python (v3.5)
+libpython3.5-minimal # Minimal subset of the Python language (version 3.5)
+libpython3.5-stdlib # Interactive high-level object-oriented language (standard library, version 3.5)
+libqalculate5-data # Powerful and easy to use desktop calculator - data
+libqalculate5v5 # Powerful and easy to use desktop calculator - library
+libqapt3 # QApt library package
+libqapt3-runtime # Runtime components for the QApt library
+libqca-qt5-2 # libraries for the Qt Cryptographic Architecture
+libqca-qt5-2-plugins # QCA plugins for libqca2
+libqca2 # libraries for the Qt Cryptographic Architecture
+libqca2-plugin-ossl # transitional package for libqca2-plugins
+libqca2-plugins # QCA plugins for libqca2
+libqgsttools-p1 # GStreamer tools for  Qt 5 Multimedia module
+libqimageblitz4 # QImageBlitz image effects library
+libqjson0 # Qt-based library that maps JSON data to QVariant objects
+libqmi-glib1 # Support library to use the Qualcomm MSM Interface (QMI) protocol
+libqmi-glib5 # Support library to use the Qualcomm MSM Interface (QMI) protocol
+libqmi-proxy # Proxy to communicate with QMI ports
+libqmobipocket1 # library for reading Mobipocket documents
+libqpdf17 # runtime library for PDF transformation/inspection software
+libqpdf21 # runtime library for PDF transformation/inspection software
+libqrencode3 # QR Code encoding library
+libqt4-dbus # Qt 4 D-Bus module
+libqt4-declarative # Qt 4 Declarative module
+libqt4-designer # Qt 4 designer module
+libqt4-help # Qt 4 help module
+libqt4-network # Qt 4 network module
+libqt4-opengl # Qt 4 OpenGL module
+libqt4-qt3support # Qt 3 compatibility library for Qt 4
+libqt4-script # Qt 4 script module
+libqt4-scripttools # Qt 4 script tools module
+libqt4-sql # Qt 4 SQL module
+libqt4-sql-mysql # Qt 4 MySQL database driver
+libqt4-sql-sqlite # Qt 4 SQLite 3 database driver
+libqt4-svg # Qt 4 SVG module
+libqt4-test # Qt 4 test module
+libqt4-xml # Qt 4 XML module
+libqt4-xmlpatterns # Qt 4 XML patterns module
+libqt5clucene5 # Qt 5 CLucene module
+libqt5concurrent5 # Qt 5 concurrent module
+libqt5core5a # Qt 5 core module
+libqt5dbus5 # Qt 5 D-Bus module
+libqt5designer5 # Qt 5 designer module
+libqt5designercomponents5 # Qt 5 Designer components module
+libqt5gui5 # Qt 5 GUI module
+libqt5help5 # Qt 5 help module
+libqt5multimedia5 # Qt 5 Multimedia module
+libqt5multimedia5-plugins # Qt 5 Multimedia module plugins
+libqt5multimediaquick-p5 # Qt 5 Multimedia Quick module
+libqt5multimediawidgets5 # Qt 5 Multimedia Widgets module
+libqt5network5 # Qt 5 network module
+libqt5opengl5 # Qt 5 OpenGL module
+libqt5printsupport5 # Qt 5 print support module
+libqt5qml-graphicaleffects # transitional dummy package for Qt 5 Graphical Effects module
+libqt5qml5 # Qt 5 QML module
+libqt5quick5 # Qt 5 Quick library
+libqt5quickwidgets5 # Qt 5 Quick Widgets library
+libqt5script5 # Qt 5 script module
+libqt5sql5 # Qt 5 SQL module
+libqt5sql5-mysql # Qt 5 MySQL database driver
+libqt5sql5-sqlite # Qt 5 SQLite 3 database driver
+libqt5svg5 # Qt 5 SVG module
+libqt5test5 # Qt 5 test module
+libqt5waylandclient5 # QtWayland client library
+libqt5webkit5 # Web content engine library for Qt
+libqt5widgets5 # Qt 5 widgets module
+libqt5x11extras5 # Qt 5 X11 extras
+libqt5xml5 # Qt 5 XML module
+libqt5xmlpatterns5 # Qt 5 XML patterns module
+libqtassistantclient4 # Qt Assistant client library (runtime)
+libqtcore4 # Qt 4 core module
+libqtcurve-utils2 # common library for QtCurve
+libqtdbus4 # Qt 4 D-Bus module library
+libqtgui4 # Qt 4 GUI module
+libqtscript4-core # QtScript bindings for the Qt 4 Core library
+libqtscript4-gui # QtScript bindings for the Qt 4 Gui library
+libqtscript4-network # QtScript bindings for the Qt 4 Network library
+libqtscript4-sql # QtScript bindings for the Qt 4 SQL library
+libqtscript4-uitools # QtScript bindings for the Qt 4 UiTools library
+libqtscript4-xml # QtScript bindings for the Qt 4 XML library
+libqtwebkit4 # Web content engine library for Qt
+libquadmath0 # GCC Quad-Precision Math Library
+libraptor2-0 # Raptor 2 RDF syntax library
+librarian0 # Documentation meta-data library (library package)
+librasqal3 # Rasqal RDF query library
+libraw1394-11 # library for direct access to IEEE 1394 bus (aka FireWire)
+libraw15 # raw image decoder library
+librdf0 # Redland Resource Description Framework (RDF) library
+libreadline6 # GNU readline and history libraries, run-time libraries
+libreoffice-avmedia-backend-gstreamer # GStreamer backend for LibreOffice
+libreoffice-base # office productivity suite -- database
+libreoffice-base-core # office productivity suite -- shared library
+libreoffice-base-drivers # Database connectivity drivers for LibreOffice
+libreoffice-calc # office productivity suite -- spreadsheet
+libreoffice-common # office productivity suite -- arch-independent files
+libreoffice-core # office productivity suite -- arch-dependent files
+libreoffice-draw # office productivity suite -- drawing
+libreoffice-impress # office productivity suite -- presentation
+libreoffice-java-common # office productivity suite -- arch-independent Java support files
+libreoffice-kde # office productivity suite -- KDE integration
+libreoffice-math # office productivity suite -- equation editor
+libreoffice-pdfimport # PDF Import component for LibreOffice
+libreoffice-sdbc-firebird # Firebird SDBC driver for LibreOffice
+libreoffice-sdbc-hsqldb # HSQLDB SDBC driver for LibreOffice
+libreoffice-style-breeze # office productivity suite -- Breeze symbol style
+libreoffice-style-galaxy # office productivity suite -- Galaxy (Default) symbol style
+libreoffice-style-oxygen # office productivity suite -- Oxygen symbol style
+libreoffice-style-tango # office productivity suite -- Tango symbol style
+libreoffice-writer # office productivity suite -- word processor
+libresid-builder0c2a # SID chip emulation class based on resid
+librest-0.7-0 # REST service access library
+librevenge-0.0-0 # Base Library for writing document interface filters
+libroken18-heimdal # Heimdal Kerberos - roken support library
+librsvg2-2 # SAX-based renderer library for SVG files (runtime)
+librsvg2-common # SAX-based renderer library for SVG files (extra runtime)
+librsync1 # rsync remote-delta algorithm library
+librtmp1 # toolkit for RTMP streams (shared library)
+libruby2.3 # Libraries necessary to run Ruby 2.3
+libsamplerate0 # Audio sample rate conversion library
+libsane # API library for scanners
+libsane-common # API library for scanners -- documentation and support files
+libsane-hpaio # HP SANE backend for multi-function peripherals
+libsasl2-2 # Cyrus SASL - authentication abstraction library
+libsasl2-modules # Cyrus SASL - pluggable authentication modules
+libsasl2-modules-db # Cyrus SASL - pluggable authentication modules (DB)
+libsbc1 # Sub Band CODEC library - runtime
+libschroedinger-1.0-0 # library for encoding/decoding of Dirac video streams
+libscim8v5 # library for SCIM platform
+libsdl-image1.2 # Image loading library for Simple DirectMedia Layer 1.2, libraries
+libsdl1.2debian # Simple DirectMedia Layer
+libseccomp2 # high level interface to Linux seccomp filter
+libsecret-1-0 # Secret store
+libsecret-common # Secret store (common files)
+libselinux1 # SELinux runtime shared libraries
+libsemanage-common # Common files for SELinux policy management libraries
+libsemanage1 # SELinux policy management library
+libsensors4 # library to read temperature/voltage/fan sensors
+libsepol1 # SELinux library for manipulating binary security policies
+libserf-1-1 # high-performance asynchronous HTTP client library
+libservlet3.1-java # Servlet 3.1, JSP 2.3, EL 3.0 and WebSocket 1.0 Java API classes
+libsgutils2-2 # utilities for devices using the SCSI command set (shared libraries)
+libshine3 # Fixed-point MP3 encoding library - runtime files
+libshout3 # MP3/Ogg Vorbis broadcast streaming library
+libsidplay2v5 # SID (MOS 6581) emulation library
+libsigc++-2.0-0v5 # type-safe Signal Framework for C++ - runtime
+libsignon-extension1 # Single Sign On framework
+libsignon-glib1 # library for signond
+libsignon-plugins-common1 # Single Sign On framework
+libsignon-qt5-1 # Single Sign On framework
+libsigsegv2 # Library for handling page faults in a portable way
+libslang2 # S-Lang programming library - runtime version
+libsm6 # X11 Session Management library
+libsmartcols1 # smart column output alignment library
+libsmbclient # shared library for communication with SMB/CIFS servers
+libsnappy1v5 # fast compression/decompression library
+libsndfile1 # Library for reading/writing audio files
+libsnmp-base # SNMP configuration script, MIBs and documentation
+libsnmp30 # SNMP (Simple Network Management Protocol) library
+libsocket6-perl # Perl extensions for IPv6
+libsodium23 # Network communication, cryptography and signaturing library
+libsolid4 # Solid Library for KDE Platform
+libsoup-gnome2.4-1 # HTTP library implementation in C -- GNOME support library
+libsoup2.4-1 # HTTP library implementation in C -- Shared library
+libsoxr0 # High quality 1D sample-rate conversion library
+libspectre1 # Library for rendering PostScript documents
+libspeex1 # The Speex codec runtime library
+libspeexdsp1 # The Speex extended runtime library
+libsqlite3-0 # SQLite 3 shared library
+libss2 # command-line interface parsing library
+libssh-4 # tiny C SSH library (OpenSSL flavor)
+libssh-gcrypt-4 # tiny C SSH library (gcrypt flavor)
+libssh2-1 # SSH2 client-side library
+libssl-dev # Secure Sockets Layer toolkit - development files
+libssl-doc # Secure Sockets Layer toolkit - development documentation
+libssl1.0.0 # Secure Sockets Layer toolkit - shared libraries
+libssl1.1 # Secure Sockets Layer toolkit - shared libraries
+libstartup-notification0 # library for program launch feedback (shared library)
+libstdc++-5-dev # GNU Standard C++ Library v3 (development files)
+libstdc++6 # GNU Standard C++ Library v3
+libstoken1 # Software Token for cryptographic authentication - shared library
+libstreamanalyzer0v5 # streamanalyzer library for Strigi Desktop Search
+libstreams0v5 # streams library for Strigi Desktop Search
+libsub-install-perl # module for installing subroutines into packages easily
+libsub-name-perl # module for assigning a new name to referenced sub
+libsuitesparseconfig4.4.6 # configuration routines for all SuiteSparse modules
+libsvn-perl # Perl bindings for Apache Subversion
+libsvn1 # Shared libraries used by Apache Subversion
+libswresample-ffmpeg1 # FFmpeg library for audio resampling, rematrixing etc. - runtime files
+libswscale-ffmpeg3 # FFmpeg library for image scaling and various conversions - runtime files
+libsyndication4 # parser library for RSS and Atom feeds
+libsystemd0 # systemd utility library
+libsz2 # Adaptive Entropy Coding library - SZIP
+libtag-extras1 # TagLib extras library - support for more file formats
+libtag1v5 # audio meta-data library
+libtag1v5-vanilla # audio meta-data library - vanilla flavour
+libtalloc2 # hierarchical pool based memory allocator
+libtaskmanager5 # Plasma Workspace for KF5 library
+libtasn1-6 # Manage ASN.1 structures (runtime)
+libtcl8.5 # Tcl (the Tool Command Language) v8.5 - run-time library files
+libtcl8.6 # Tcl (the Tool Command Language) v8.6 - run-time library files
+libtdb1 # Trivial Database - shared library
+libtelepathy-glib0 # Telepathy framework - GLib library
+libtelepathy-logger-qt5 # Qt bindings for the telepathy-logger library
+libtelepathy-logger3 # Telepathy logger service - utility library
+libtelepathy-qt4-2 # Telepathy framework - Qt 4 library
+libtelepathy-qt5-0 # Telepathy framework - Qt 5 library
+libterm-readkey-perl # perl module for simple terminal control
+libtevent0 # talloc-based event loop library - shared library
+libtext-charwidth-perl # get display widths of characters on the terminal
+libtext-iconv-perl # converts between character sets in Perl
+libtext-levenshtein-perl # implementation of the Levenshtein edit distance
+libtext-unidecode-perl # Text::Unidecode -- US-ASCII transliterations of Unicode text
+libtext-wrapi18n-perl # internationalized substitute of Text::Wrap
+libthai-data # Data files for Thai language support library
+libthai0 # Thai language support library
+libtheora0 # Theora Video Compression Codec
+libthreadweaver4 # ThreadWeaver Library for the KDE Platform
+libtie-ixhash-perl # Perl module to order associative arrays
+libtiff5 # Tag Image File Format (TIFF) library
+libtimedate-perl # collection of modules to manipulate date/time information
+libtinfo-dev # developer's library for the low-level terminfo library
+libtinfo5 # shared low-level terminfo library for terminal handling
+libtk8.5 # Tk toolkit for Tcl and X11 v8.5 - run-time files
+libtk8.6 # Tk toolkit for Tcl and X11 v8.6 - run-time files
+libtomcrypt0 # public domain open source cryptographic toolkit
+libtommath0 # multiple-precision integer library [runtime]
+libtry-tiny-perl # module providing minimalistic try/catch
+libtsan0 # ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+libtwolame0 # MPEG Audio Layer 2 encoding library
+libtxc-dxtn-s2tc0 # Texture compression library for Mesa
+libtypes-serialiser-perl # module providing simple data types for common serialisation formats
+libubsan0 # UBSan -- undefined behaviour sanitizer (runtime)
+libudev1 # libudev shared library
+libudisks2-0 # GObject based library to access udisks2
+libumfpack5.7.1 # sparse LU factorization library
+libunistring0 # Unicode string library for C
+libupnp6 # Portable SDK for UPnP Devices, version 1.6 (shared libraries)
+libupower-glib3 # abstraction for power management - shared library
+liburi-perl # module to manipulate and access URI strings
+libusageenvironment3 # multimedia RTSP streaming library (UsageEnvironment classes)
+libusb-0.1-4 # userspace USB programming library
+libusb-1.0-0 # userspace USB programming library
+libusbmuxd4 # USB multiplexor daemon for iPhone and iPod Touch devices - library
+libustr-1.0-1 # Micro string library: shared library
+libutempter0 # privileged helper for utmp/wtmp updates (runtime)
+libuuid1 # Universally Unique ID library
+libuv1 # asynchronous event notification library - runtime library
+libuv1-dev # asynchronous event notification library - development files
+libv4l-0 # Collection of video4linux support libraries
+libv4lconvert0 # Video4linux frame format conversion library
+libva-drm1 # Video Acceleration (VA) API for Linux -- DRM runtime
+libva-x11-1 # Video Acceleration (VA) API for Linux -- X11 runtime
+libva1 # Video Acceleration (VA) API for Linux -- runtime
+libvcdinfo0 # library to extract information from VideoCD
+libvdpau1 # Video Decode and Presentation API for Unix (libraries)
+libvisio-0.1-1 # library for parsing the visio file structure
+libvisual-0.4-0 # audio visualization framework
+libvlc5 # multimedia player and streamer library
+libvlccore8 # base library for VLC and its modules
+libvncclient1 # API to write one's own VNC server - client library
+libvoikko1 # Library of free natural language processing tools
+libvorbis0a # decoder library for Vorbis General Audio Compression Codec
+libvorbisenc2 # encoder library for Vorbis General Audio Compression Codec
+libvorbisfile3 # high-level API for Vorbis General Audio Compression Codec
+libvpx3 # VP8 and VP9 video codec (shared library)
+libvte-2.91-0 # Terminal emulator widget for GTK+ 3.0 - runtime files
+libvte-2.91-common # Terminal emulator widget for GTK+ 3.0 - common files
+libwacom-bin # Wacom model feature query library -- binaries
+libwacom-common # Wacom model feature query library (common files)
+libwacom2 # Wacom model feature query library
+libwavpack1 # audio codec (lossy and lossless) - library
+libwayland-client0 # wayland compositor infrastructure - client library
+libwayland-cursor0 # wayland compositor infrastructure - cursor library
+libwayland-egl1-mesa # implementation of the Wayland EGL platform -- runtime
+libwayland-server0 # wayland compositor infrastructure - server library
+libwbclient0 # Samba winbind client library
+libweather-ion7 # Plasma Workspace for KF5 library
+libwebkit2gtk-4.0-37 # Web content engine library for GTK+
+libwebkit2gtk-4.0-37-gtk2 # Web content engine library for GTK+ - GTK+2 plugin process
+libwebp5 # Lossy compression of digital photographic images.
+libwebp6 # Lossy compression of digital photographic images.
+libwebpdemux1 # Lossy compression of digital photographic images.
+libwebpmux1 # Lossy compression of digital photographic images.
+libwebrtc-audio-processing-0 # AudioProcessing module from the WebRTC project.
+libwhoopsie-preferences0 # Ubuntu error tracker submission settings - shared library
+libwhoopsie0 # Ubuntu error tracker submission - shared library
+libwind0-heimdal # Heimdal Kerberos - stringprep implementation
+libwinpr-crt0.1 # Windows Portable Runtime library (crt library)
+libwinpr-dsparse0.1 # Windows Portable Runtime library (dsparse library)
+libwinpr-environment0.1 # Windows Portable Runtime library (environment library)
+libwinpr-file0.1 # Windows Portable Runtime library (file library)
+libwinpr-handle0.1 # Windows Portable Runtime library (handle library)
+libwinpr-heap0.1 # Windows Portable Runtime library (heap library)
+libwinpr-input0.1 # Windows Portable Runtime library (input library)
+libwinpr-interlocked0.1 # Windows Portable Runtime library (interlocked library)
+libwinpr-library0.1 # Windows Portable Runtime library (library)
+libwinpr-path0.1 # Windows Portable Runtime library (path library)
+libwinpr-pool0.1 # Windows Portable Runtime library (pool library)
+libwinpr-registry0.1 # Windows Portable Runtime library (registry library)
+libwinpr-rpc0.1 # Windows Portable Runtime library (RPC library)
+libwinpr-sspi0.1 # Windows Portable Runtime library (sspi library)
+libwinpr-synch0.1 # Windows Portable Runtime library (synch library)
+libwinpr-sysinfo0.1 # Windows Portable Runtime library (sysinfo library)
+libwinpr-thread0.1 # Windows Portable Runtime library (thread library)
+libwinpr-utils0.1 # Windows Portable Runtime library (utils library)
+libwmf-bin # Windows metafile conversion tools
+libwmf0.2-7 # Windows metafile conversion library
+libwpd-0.10-10 # Library for handling WordPerfect documents (shared library)
+libwpg-0.3-3 # WordPerfect graphics import/convert library (shared library)
+libwps-0.4-4 # Works text file format import filter library (shared library)
+libwrap0 # Wietse Venema's TCP wrappers library
+libwww-perl # simple and consistent interface to the world-wide web
+libwww-robotrules-perl # database of robots.txt-derived permissions
+libx11-6 # X11 client-side library
+libx11-data # X11 client-side library
+libx11-dev # X11 client-side library (development headers)
+libx11-doc # X11 client-side library (development documentation)
+libx11-protocol-perl # Perl module for the X Window System Protocol, version 11
+libx11-xcb-dev # Xlib/XCB interface library (development headers)
+libx11-xcb1 # Xlib/XCB interface library
+libx264-148 # x264 video coding library
+libx265-79 # H.265/HEVC video stream encoder (shared library)
+libx86-1 # x86 real-mode library
+libxapian-1.3-5 # Search engine library
+libxapian22v5 # Search engine library
+libxatracker2 # X acceleration library -- runtime
+libxau-dev # X11 authorisation library (development headers)
+libxau6 # X11 authorisation library
+libxaw7 # X11 Athena Widget library
+libxcb-composite0 # X C Binding, composite extension
+libxcb-cursor0 # utility libraries for X C Binding -- cursor
+libxcb-damage0 # X C Binding, damage extension
+libxcb-dpms0 # X C Binding, dpms extension
+libxcb-dri2-0 # X C Binding, dri2 extension
+libxcb-dri2-0-dev # X C Binding, dri2 extension, development files
+libxcb-dri3-0 # X C Binding, dri3 extension
+libxcb-dri3-dev # X C Binding, dri3 extension, development files
+libxcb-glx0 # X C Binding, glx extension
+libxcb-glx0-dev # X C Binding, glx extension, development files
+libxcb-icccm4 # utility libraries for X C Binding -- icccm
+libxcb-image0 # utility libraries for X C Binding -- image
+libxcb-keysyms1 # utility libraries for X C Binding -- keysyms
+libxcb-present-dev # X C Binding, present extension, development files
+libxcb-present0 # X C Binding, present extension
+libxcb-randr0 # X C Binding, randr extension
+libxcb-randr0-dev # X C Binding, randr extension, development files
+libxcb-record0 # X C Binding, record extension
+libxcb-render-util0 # utility libraries for X C Binding -- render-util
+libxcb-render0 # X C Binding, render extension
+libxcb-render0-dev # X C Binding, render extension, development files
+libxcb-shape0 # X C Binding, shape extension
+libxcb-shape0-dev # X C Binding, shape extension, development files
+libxcb-shm0 # X C Binding, shm extension
+libxcb-sync-dev # X C Binding, sync extension, development files
+libxcb-sync1 # X C Binding, sync extension
+libxcb-util1 # utility libraries for X C Binding -- atom, aux and event
+libxcb-xfixes0 # X C Binding, xfixes extension
+libxcb-xfixes0-dev # X C Binding, xfixes extension, development files
+libxcb-xkb1 # X C Binding, XKEYBOARD extension
+libxcb-xv0 # X C Binding, xv extension
+libxcb1 # X C Binding
+libxcb1-dev # X C Binding, development files
+libxcomposite1 # X11 Composite extension library
+libxcursor1 # X cursor management library
+libxdamage-dev # X11 damaged region extension library (development headers)
+libxdamage1 # X11 damaged region extension library
+libxdmcp-dev # X11 authorisation library (development headers)
+libxdmcp6 # X11 Display Manager Control Protocol library
+libxerces-c3.1 # validating XML parser library for C++
+libxext-dev # X11 miscellaneous extensions library (development headers)
+libxext6 # X11 miscellaneous extension library
+libxfixes-dev # X11 miscellaneous 'fixes' extension library (development headers)
+libxfixes3 # X11 miscellaneous 'fixes' extension library
+libxfont1 # X11 font rasterisation library
+libxfreerdp-client1.1 # Free Remote Desktop Protocol library (xfreerdp-client library)
+libxft2 # FreeType-based font drawing library for X
+libxi6 # X11 Input extension library
+libxinerama1 # X11 Xinerama extension library
+libxkbcommon-x11-0 # library to create keymaps with the XKB X11 protocol
+libxkbcommon0 # library interface to the XKB compiler - shared library
+libxkbfile1 # X11 keyboard file manipulation library
+libxml-libxml-perl # Perl interface to the libxml2 library
+libxml-namespacesupport-perl # Perl module for supporting simple generic namespaces
+libxml-parser-perl # Perl module for parsing XML files
+libxml-sax-base-perl # base class for SAX drivers and filters
+libxml-sax-expat-perl # Perl module for a SAX2 driver for Expat (XML::Parser)
+libxml-sax-perl # Perl module for using and building Perl SAX2 XML processors
+libxml-twig-perl # Perl module for processing huge XML documents in tree mode
+libxml-xpathengine-perl # re-usable XPath engine for DOM-like trees
+libxml2 # GNOME XML library
+libxml2-utils # XML utilities
+libxmu6 # X11 miscellaneous utility library
+libxmuu1 # X11 miscellaneous micro-utility library
+libxpm4 # X11 pixmap library
+libxrandr2 # X11 RandR extension library
+libxrender1 # X Rendering Extension client library
+libxshmfence-dev # X shared memory fences - development files
+libxshmfence1 # X shared memory fences - shared library
+libxslt1.1 # XSLT 1.0 processing library - runtime library
+libxss1 # X11 Screen Saver extension library
+libxt6 # X11 toolkit intrinsics library
+libxtables11 # netfilter xtables library
+libxtst6 # X11 Testing -- Record extension library
+libxv1 # X11 Video extension library
+libxvidcore4 # Open source MPEG-4 video codec (library)
+libxvmc1 # X11 Video extension library
+libxxf86dga1 # X11 Direct Graphics Access extension library
+libxxf86vm-dev # X11 XFree86 video mode extension library (development headers)
+libxxf86vm1 # X11 XFree86 video mode extension library
+libyajl2 # Yet Another JSON Library
+libyaml-0-2 # Fast YAML 1.1 parser and emitter library
+libyaml-libyaml-perl # Perl interface to libyaml, a YAML implementation
+libyaml-perl # YAML Ain't Markup Language
+libyelp0 # Library for the GNOME help browser
+libzephyr4 # Project Athena's notification service - non-Kerberos libraries
+libzip4 # library for reading, creating, and modifying zip archives (runtime)
+libzmq5 # lightweight messaging kernel (shared library)
+libzvbi-common # Vertical Blanking Interval decoder (VBI) - common files
+libzvbi0 # Vertical Blanking Interval decoder (VBI) - runtime files
+lintian # Debian package checker
+linux-base # Linux image base package
+linux-firmware # Firmware for Linux kernel drivers
+linux-generic # Complete Generic Linux kernel and headers
+linux-headers-4.4.0-116 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-116-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-119 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-119-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-121 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-121-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-127 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-127-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-141 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-141-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-143 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-143-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-145 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-145-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-4.4.0-31 # Header files related to Linux kernel version 4.4.0
+linux-headers-4.4.0-31-generic # Linux kernel headers for version 4.4.0 on 64 bit x86 SMP
+linux-headers-generic # Generic Linux kernel headers
+linux-image-4.4.0-116-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-4.4.0-119-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-4.4.0-121-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-4.4.0-127-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-4.4.0-141-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-4.4.0-143-generic # Signed kernel image generic
+linux-image-4.4.0-145-generic # Signed kernel image generic
+linux-image-4.4.0-31-generic # Linux kernel image for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-116-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-119-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-121-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-127-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-141-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-extra-4.4.0-31-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-image-generic # Generic Linux kernel image
+linux-libc-dev # Linux Kernel Headers for development
+linux-modules-4.4.0-143-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-modules-4.4.0-145-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-modules-extra-4.4.0-143-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-modules-extra-4.4.0-145-generic # Linux kernel extra modules for version 4.4.0 on 64 bit x86 SMP
+linux-sound-base # base package for ALSA and OSS sound systems
+linuxbrew-wrapper # Missing Package Manager For Linux
+lm-sensors # utilities to read temperature/voltage/fan sensors
+locales # GNU C Library: National Language (locale) data [support]
+login # system login tools
+logrotate # Log rotation utility
+lp-solve # Solve (mixed integer) linear programming problems
+lsb-base # Linux Standard Base init script functionality
+lsb-release # Linux Standard Base version reporting utility
+lshw # information about hardware configuration
+lsof # Utility to list open files
+ltrace # Tracks runtime library calls in dynamically linked programs
+lua-bitop # fast bit manipulation library for the Lua language
+lua-cgi # CGI library for the Lua language
+lua-cosmo # Template library for the Lua language
+lua-coxpcall # Protected function calls across coroutines for Lua
+lua-expat # libexpat bindings for the Lua language
+lua-filesystem # luafilesystem library for the Lua language
+lua-iconv # iconv bindings for the Lua programming language
+lua-lpeg # LPeg library for the Lua language
+lua-markdown # Pure Lua 5.1 implementation of the Markdown text-to-html markup
+lua-md5 # MD5 library for the Lua language
+lua-posix # posix library for the Lua language
+lua-rings # Lua state creation and control library for the Lua language
+lua-socket # TCP/UDP socket library for the Lua language
+lua-wsapi # Web server API abstraction layer for the Lua language
+lua5.1 # Simple, extensible, embeddable programming language
+m17n-db # multilingual text processing library - database
+m4 # macro processing language
+make # utility for directing compilation
+makedev # creates device files in /dev
+man-db # on-line manual pager
+manpages # Manual pages about using a GNU/Linux system
+manpages-dev # Manual pages about using GNU/Linux for development
+mawk # a pattern scanning and text processing language
+media-player-info # Media player identification files
+memtest86+ # thorough real-mode memory tester
+mercurial # easy-to-use, scalable distributed version control system
+mercurial-common # easy-to-use, scalable distributed version control system (common files)
+mesa-common-dev # Developer documentation for Mesa
+mesa-vdpau-drivers # Mesa VDPAU video acceleration drivers
+milou # Dedicated search plasmoid.
+mime-support # MIME files 'mime.types' & 'mailcap', and support programs
+mlocate # quickly find files on the filesystem based on their name
+mobile-broadband-provider-info # database of mobile broadband service providers
+modemmanager # D-Bus service for managing modems
+mongodb-org # MongoDB open source document-oriented database system (metapackage)
+mongodb-org-mongos # MongoDB sharded cluster query router
+mongodb-org-server # MongoDB database server
+mongodb-org-shell # MongoDB shell client
+mongodb-org-tools # MongoDB tools
+mount # tools for mounting and manipulating filesystems
+mscompress # Microsoft "compress.exe/expand.exe" compatible (de)compressor
+msr-tools # Utilities for modifying MSRs from userspace
+mtr-tiny # Full screen ncurses traceroute tool
+multiarch-support # Transitional package to ensure multiarch compatibility
+muon-notifier # Transitional package (muon-notifier -> plasma-discover-updater)
+muon-updater # Transitional package (muon-updater -> plasma-discover-updater)
+mysql-client-5.7 # MySQL database client binaries
+mysql-client-core-5.7 # MySQL database core client binaries
+mysql-common # MySQL database common files, e.g. /etc/mysql/my.cnf
+mysql-server # MySQL database server (metapackage depending on the latest version)
+mysql-server-5.7 # MySQL database server binaries and system database setup
+mysql-server-core-5.7 # MySQL database server binaries
+nano # small, friendly text editor inspired by Pico
+ncurses-base # basic terminal type definitions
+ncurses-bin # terminal-related programs and man pages
+net-tools # NET-3 networking toolkit
+netbase # Basic TCP/IP networking system
+netbeans-installer # Extensible Java IDE
+netcat-openbsd # TCP/IP swiss army knife
+netpbm # Graphics conversion tools between image formats
+network-manager # network management framework (daemon and userspace tools)
+network-manager-pptp # network management framework (PPTP plugin core)
+node-abbrev # Get unique abbreviations for a set of strings - Node.js module
+node-ansi # Advanced ANSI formatting tool for Node.js
+node-ansi-color-table # Color and format tables for ansi output - Node.js module
+node-archy # Pretty-print nested hierarchies module for Node.js
+node-async # higher-order functions and common patterns for asynchronous Javascript
+node-block-stream # Stream of fixed-size blocks, with zero-padding when necessary
+node-combined-stream # Append streams one after another - module for Node.js
+node-cookie-jar # Cookie handling for HTTP clients - module for Node.js
+node-delayed-stream # Buffer stream events for later handling - module for Node.js
+node-forever-agent # HTTP agent supporting keep-alive requests - module for Node.js
+node-form-data # Create multipart/form-data streams module for Node.js
+node-fstream # Advanced filesystem streaming tools for Node.js
+node-fstream-ignore # Directory reader configurable by .ignore module for Node.js
+node-github-url-from-git # Convert github git or gist url to an http url - Node.js module
+node-glob # glob functionality for Node.js
+node-graceful-fs # drop-in replacement improving the Node.js fs module
+node-gyp # Native addon build tool for Node.js
+node-inherits # Exposes inherits function from Node.js environment
+node-ini # ini format parser and serializer for Node.js
+node-json-stringify-safe # JSON.stringify with circular references module for Node.js
+node-lockfile # Asynchronous file lock module for Node.js
+node-lru-cache # least-recently-used cache object for Node.js
+node-mime # library for mime-type mapping for Node.js
+node-minimatch # Convert glob expressions into RegExp objects for Node.js
+node-mkdirp # Recursively create directories - Node.js module
+node-mute-stream # Pass-through stream that can be muted module for Node.js
+node-node-uuid # simple, fast generation of RFC4122 UUIDs - Node module
+node-nopt # Command-line option parser for Node.js
+node-normalize-package-data # Normalizes package metadata - Node.js module
+node-npmlog # Logger with custom levels and colored output for Node.js
+node-once # Run a function only once with this module for Node.js
+node-osenv # Environment settings lookup module for Node.js
+node-qs # Parse, stringify query strings for Node.js
+node-read # Read user input from stdin module for Node.js
+node-read-package-json # Read package.json for npm module for Node.js
+node-request # simplified HTTP request client module for Node.js
+node-retry # Retry strategies for failed operations module for Node.js
+node-rimraf # Deep deletion (like rm -rf) module for Node.js
+node-semver # Semantic Versioning for Node.js
+node-sha # Check and get file or stream hashes - module for Node.js
+node-sigmund # Quick and dirty signatures for Objects module for Node.js
+node-slide # Simple chain and asyncMap flow control module for Node.js
+node-tar # read and write portable tar archives module for Node.js
+node-tunnel-agent # HTTP proxy tunneling agent module for Node.js
+node-underscore # JavaScript's functional programming helper library - NodeJS
+node-which # Cross-platform 'which' module for Node.js
+nodejs # evented I/O for V8 javascript
+nodejs-dev # evented I/O for V8 javascript (development files)
+npm # package manager for Node.js
+ntfs-3g # read/write NTFS driver for FUSE
+ntrack-module-libnl-0 # libnl based ntrack module
+okular # universal document viewer
+okular-extra-backends # additional document format support for Okular
+openjdk-8-jre # OpenJDK Java runtime, using Hotspot JIT
+openjdk-8-jre-headless # OpenJDK Java runtime, using Hotspot JIT (headless)
+openoffice.org-hyphenation # Hyphenation patterns for OpenOffice.org
+openprinting-ppds # OpenPrinting printer support - PostScript PPD files
+openssh-client # secure shell (SSH) client, for secure access to remote machines
+openssl # Secure Sockets Layer toolkit - cryptographic utility
+oracle-java8-installer # Oracle Java(TM) Development Kit (JDK) 8
+oracle-java8-set-default # Set Oracle JDK 8 as default Java
+os-prober # utility to detect other OSes on a set of drives
+oxygen-icon-theme # Transitional package for oxygen5-icon-theme
+oxygen-sounds # Sounds for the Oxygen desktop theme
+oxygen5-icon-theme # Oxygen icon theme
+p11-kit # p11-glue utilities
+p11-kit-modules # p11-glue proxy and trust modules
+p7zip-full # 7z and 7za file archivers with high compression ratio
+p7zip-rar # non-free rar module for p7zip
+parted # disk partition manipulator
+partitionmanager # file, disk and partion management for KDE
+passwd # change and administer password and group data
+patch # Apply a diff file to an original
+patchutils # Utilities to work with patches
+pciutils # Linux PCI Utilities
+pcmciautils # PCMCIA utilities for Linux 2.6
+pep8 # Python PEP 8 code style checker
+perl # Larry Wall's Practical Extraction and Report Language
+perl-base # minimal Perl system
+perl-modules-5.22 # Core Perl modules
+phonon # multimedia framework from KDE using Qt 4 - metapackage
+phonon-backend-gstreamer # Phonon GStreamer 1.0 backend
+phonon-backend-gstreamer-common # Phonon GStreamer 1.0.x backend icons
+phonon4qt5-backend-gstreamer # Phonon Qt5 GStreamer 1.0 backend
+php # server-side, HTML-embedded scripting language (default)
+php-common # Common files for PHP packages
+php-gd # GD module for PHP [default]
+php-gettext # read gettext MO files directly, without requiring anything other than PHP
+php-mbstring # MBSTRING module for PHP [default]
+php-mysql # MySQL module for PHP [default]
+php-pear # PEAR Base System
+php-phpseclib # implementations of an arbitrary-precision integer arithmetic library
+php-tcpdf # PHP class for generating PDF files on-the-fly
+php-xml # DOM, SimpleXML, WDDX, XML, and XSL module for PHP [default]
+php7.1-common # documentation, examples and common module for PHP
+php7.1-mcrypt # libmcrypt module for PHP
+php7.2 # server-side, HTML-embedded scripting language (metapackage)
+php7.2-cli # command-line interpreter for the PHP scripting language
+php7.2-common # documentation, examples and common module for PHP
+php7.2-gd # GD module for PHP
+php7.2-json # JSON module for PHP
+php7.2-mbstring # MBSTRING module for PHP
+php7.2-mysql # MySQL module for PHP
+php7.2-opcache # Zend OpCache module for PHP
+php7.2-readline # readline module for PHP
+php7.2-xml # DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+phpmyadmin # MySQL web administration tool
+pidgin-data # multi-protocol instant messaging client - data files
+pinentry-gnome3 # GNOME 3 PIN or pass-phrase entry dialog for GnuPG
+pinentry-qt # Qt-based PIN or pass-phrase entry dialog for GnuPG
+plasma-dataengines-addons # additional data engines for Plasma
+plasma-desktop # Tools and widgets for the desktop
+plasma-desktop-data # Tools and widgets for the desktop data files
+plasma-discover # Utility for browsing, installing, and removing applications
+plasma-discover-common # Discover software manager suite (common data files)
+plasma-discover-private # Private runtime libraries for the Discover suite
+plasma-discover-updater # Update manager for KDE
+plasma-framework # Plasma Runtime components
+plasma-look-and-feel-org-kde-breezedark-desktop # Dark Breeze look-and-feel for Plasma
+plasma-nm # Plasma5 networkmanager library.
+plasma-pa # Plasma 5 Volume controller
+plasma-runners-addons # additional runners for Plasma 5 and Krunner
+plasma-scriptengine-javascript # JavaScript script engine for Plasma
+plasma-wallpapers-addons # additional wallpaper plugins for Plasma 5
+plasma-widgets-addons # additional widgets for Plasma 5
+plasma-workspace # Plasma Workspace for KF5
+plymouth # boot animation, logger and I/O multiplexer
+plymouth-label # boot animation, logger and I/O multiplexer - label control
+plymouth-theme-kubuntu-logo # graphical boot animation and logger - kubuntu-logo theme
+plymouth-theme-kubuntu-text # graphical boot animation and logger - kubuntu-text theme
+plymouth-theme-ubuntu-text # boot animation, logger and I/O multiplexer - ubuntu text theme
+pm-utils # utilities and scripts for power management
+policykit-1 # framework for managing administrative policies and privileges
+policykit-desktop-privileges # run common desktop actions without password
+polkit-kde-agent-1 # KDE dialogs for PolicyKit
+poppler-data # encoding data for the poppler PDF rendering library
+poppler-utils # PDF utilities (based on Poppler)
+popularity-contest # Vote for your favourite packages automatically
+powerdevil # Global power saver settings.
+powerdevil-data # Global power saver settings data files.
+powermgmt-base # Common utils and configs for power management
+ppp # Point-to-Point Protocol (PPP) - daemon
+pptp-linux # Point-to-Point Tunneling Protocol (PPTP) Client
+print-manager # printer configuration and monitoring tools
+printer-driver-brlaser # printer driver for (some) Brother laser printers
+printer-driver-c2esp # printer driver for Kodak ESP AiO color inkjet Series
+printer-driver-foo2zjs # printer driver for ZjStream-based printers
+printer-driver-foo2zjs-common # printer driver for ZjStream-based printers - common files
+printer-driver-gutenprint # printer drivers for CUPS
+printer-driver-hpcups # HP Linux Printing and Imaging - CUPS Raster driver (hpcups)
+printer-driver-min12xxw # printer driver for KonicaMinolta PagePro 1[234]xxW
+printer-driver-pnm2ppa # printer driver for HP-GDI printers
+printer-driver-postscript-hp # HP Printers PostScript Descriptions
+printer-driver-ptouch # printer driver Brother P-touch label printers
+printer-driver-pxljr # printer driver for HP Color LaserJet 35xx/36xx
+printer-driver-sag-gdi # printer driver for Ricoh Aficio SP 1000s/SP 1100s
+printer-driver-splix # Driver for Samsung and Xerox SPL2 and SPLc laser printers
+procps # /proc file system utilities
+psmisc # utilities that use the proc file system
+pulseaudio # PulseAudio sound server
+pulseaudio-module-bluetooth # Bluetooth module for PulseAudio sound server
+pulseaudio-module-x11 # X11 module for PulseAudio sound server
+pulseaudio-utils # Command line tools for the PulseAudio sound server
+pv # Shell pipeline element to meter data passing through
+pyflakes # passive checker of Python 2 and 3 programs
+pyflakes3 # passive checker of Python 2 and 3 programs
+pylint # Python code static checker and UML diagram generator
+python # interactive high-level object-oriented language (default version)
+python-alabaster # Configurable sidebar-enabled Sphinx theme (Python 2)
+python-all # package depending on all supported Python runtime versions
+python-all-dev # package depending on all supported Python development packages
+python-antlr # language tool for constructing recognizers, compilers etc
+python-appindicator # Python bindings for libappindicator
+python-apt # Python interface to libapt-pkg
+python-apt-common # Python interface to libapt-pkg (locales)
+python-astroid # rebuild a new abstract syntax tree from Python's AST
+python-babel # tools for internationalizing Python applications - Python 2.x
+python-babel-localedata # tools for internationalizing Python applications - locale data files
+python-bs4 # error-tolerant HTML parser for Python
+python-cairo # Python bindings for the Cairo vector graphics library
+python-chardet # universal character encoding detector for Python2
+python-compizconfig # Compizconfig bindings for Python
+python-cvxopt # Python package for convex optimization
+python-cycler # composable kwarg iterator (Python 2)
+python-dateutil # powerful extensions to the standard datetime module
+python-dbus # simple interprocess messaging system (Python interface)
+python-decorator # simplify usage of Python decorators by programmers
+python-dev # header files and a static library for Python (default)
+python-docutils # text processing system for reStructuredText (implemented in Python 2)
+python-egenix-mxdatetime # date and time handling routines for Python
+python-egenix-mxtools # collection of additional builtins for Python
+python-gconf # Python bindings for the GConf configuration database system
+python-gi # Python 2.x bindings for gobject-introspection libraries
+python-glade2 # GTK+ bindings: Glade support
+python-gnome2 # Python bindings for the GNOME desktop environment
+python-gobject # Python 2.x bindings for GObject - transitional package
+python-gobject-2 # deprecated static Python bindings for the GObject library
+python-gtk2 # Python bindings for the GTK+ widget set
+python-html5lib # HTML parser/tokenizer based on the WHATWG HTML5 specification (Python 2)
+python-imaging # Python Imaging Library compatibility layer
+python-jdcal # Julian dates from proleptic Gregorian and Julian calendars
+python-jedi # autocompletion tool for Python
+python-jinja2 # small but fast and easy to use stand-alone template engine
+python-joblib # tools to provide lightweight pipelining in Python
+python-lazy-object-proxy # Python fast and thorough lazy object proxy
+python-lockfile # file locking library for Python ?? Python 2 library
+python-logilab-common # useful miscellaneous modules used by Logilab projects
+python-lxml # pythonic binding for the libxml2 and libxslt libraries
+python-markupsafe # HTML/XHTML/XML string library for Python
+python-matplotlib # Python based plotting system in a style similar to Matlab
+python-matplotlib-data # Python based plotting system (data package)
+python-minimal # minimal subset of the Python language (default version)
+python-nose # test discovery and running of Python's unittest
+python-numexpr # Fast numerical array expression evaluator for Python and NumPy
+python-numpy # Numerical Python adds a fast array facility to the Python language
+python-openpyxl # module to read/write OpenXML xlsx/xlsm files
+python-pandas # data structures for "relational" or "labeled" data
+python-pandas-lib # low-level implementations and bindings for pandas
+python-patsy # statistical models in Python using symbolic formulas
+python-pexpect # Python module for automating interactive applications
+python-pil # Python Imaging Library (Pillow fork)
+python-pip # alternative Python package installer
+python-pip-whl # alternative Python package installer
+python-pkg-resources # Package Discovery and Resource Access using pkg_resources
+python-psutil # module providing convenience functions for managing processes
+python-ptyprocess # Run a subprocess in a pseudo terminal from Python 2
+python-py # Advanced Python development support library (Python 2)
+python-pyflakes # passive checker of Python 2 programs
+python-pygments # syntax highlighting package written in Python
+python-pyorbit # A Python language binding for the ORBit2 CORBA implementation
+python-pyparsing # Python parsing module
+python-pytest # Simple, powerful testing in Python
+python-qt4 # Python bindings for Qt4
+python-qt4-dbus # D-Bus Support for PyQt4
+python-renderpm # python low level render interface
+python-reportlab # ReportLab library to create PDF documents using Python
+python-reportlab-accel # C coded extension accelerator for the ReportLab Toolkit
+python-roman # module for generating/analyzing Roman numerals for Python 2
+python-rope # Python refactoring library
+python-scipy # scientific tools for Python
+python-setuptools # Python Distutils Enhancements
+python-simplegeneric # simple generic functions for Python
+python-simplejson # simple, fast, extensible JSON encoder/decoder for Python
+python-sip # Python/C++ bindings generator runtime library
+python-six # Python 2 and 3 compatibility library (Python 2 interface)
+python-sphinx # documentation generator for Python projects (implemented in Python 2)
+python-sphinx-rtd-theme # sphinx theme from readthedocs.org (Python 2)
+python-spyderlib # Python IDE for scientists (Python 2 modules)
+python-spyderlib-doc # Python IDE for scientists (Documentation)
+python-statsmodels # Python module for the estimation of statistical models
+python-statsmodels-lib # low-level implementations and bindings for statsmodels
+python-svn # A(nother) Python interface to Subversion
+python-tables # hierarchical database for Python based on HDF5
+python-tables-data # hierarchical database for Python based on HDF5 - test data
+python-tables-lib # hierarchical database for Python based on HDF5 (extension)
+python-talloc # hierarchical pool based memory allocator - Python bindings
+python-tk # Tkinter - Writing Tk applications with Python
+python-tz # Python version of the Olson timezone database
+python-uniconvertor # Universal vector graphics translator
+python-virtualenv # Python virtual environment creator
+python-wheel # built-package format for Python
+python-wrapt # decorators, wrappers and monkey patching. - Python 2.x
+python-xdg # Python 2 library to access freedesktop.org standards
+python-xlib # interface for Python to the X11 protocol
+python-xlrd # extract data from Microsoft Excel spreadsheet files
+python-xlwt # module for writing Microsoft Excel spreadsheet files
+python-zmq # Python bindings for 0MQ library
+python2.7 # Interactive high-level object-oriented language (version 2.7)
+python2.7-dev # Header files and a static library for Python (v2.7)
+python2.7-minimal # Minimal subset of the Python language (version 2.7)
+python3 # interactive high-level object-oriented language (default python3 version)
+python3-alabaster # Configurable sidebar-enabled Sphinx theme (Python 3)
+python3-apport # Python 3 library for Apport crash report handling
+python3-apt # Python 3 interface to libapt-pkg
+python3-aptdaemon # Python 3 module for the server and client of aptdaemon
+python3-aptdaemon.pkcompat # PackageKit compatibilty for AptDaemon
+python3-babel # tools for internationalizing Python applications - Python 3.x
+python3-bs4 # error-tolerant HTML parser for Python 3
+python3-chardet # universal character encoding detector for Python3
+python3-commandnotfound # Python 3 bindings for command-not-found.
+python3-cups # Python3 bindings for CUPS
+python3-cupshelpers # Python modules for printer configuration with CUPS
+python3-cycler # composable kwarg iterator (Python 3)
+python3-dateutil # powerful extensions to the standard datetime module
+python3-dbus # simple interprocess messaging system (Python 3 interface)
+python3-dbus.mainloop.pyqt5 # D-Bus Qt main loop support for Python 3
+python3-debian # Python 3 modules to work with Debian-related data formats
+python3-decorator # simplify usage of Python decorators by programmers
+python3-defer # Small framework for asynchronous programming (Python 3)
+python3-dev # header files and a static library for Python (default)
+python3-distupgrade # manage release upgrades
+python3-docutils # text processing system for reStructuredText (implemented in Python 3)
+python3-gdbm # GNU dbm database support for Python 3.x
+python3-gi # Python 3 bindings for gobject-introspection libraries
+python3-html5lib # HTML parser/tokenizer based on the WHATWG HTML5 specification (Python 3)
+python3-jedi # autocompletion tool for Python 3
+python3-jinja2 # small but fast and easy to use stand-alone template engine
+python3-lxml # pythonic binding for the libxml2 and libxslt libraries
+python3-markupsafe # HTML/XHTML/XML string library for Python 3
+python3-matplotlib # Python based plotting system in a style similar to Matlab (Python 3)
+python3-minimal # minimal subset of the Python language (default python3 version)
+python3-numexpr # Fast numerical array expression evaluator for Python 3 and NumPy
+python3-numpy # Fast array facility to the Python 3 language
+python3-pandas # data structures for "relational" or "labeled" data - Python 3
+python3-pandas-lib # low-level implementations and bindings for pandas - Python 3
+python3-pep8 # Python PEP 8 code style checker - python3
+python3-pexpect # Python 3 module for automating interactive applications
+python3-pil # Python Imaging Library (Python3)
+python3-pip # alternative Python package installer - Python 3 version of the package
+python3-pkg-resources # Package Discovery and Resource Access using pkg_resources
+python3-problem-report # Python 3 library to handle problem reports
+python3-psutil # module providing convenience functions for managing processes (Python3)
+python3-ptyprocess # Run a subprocess in a pseudo terminal from Python 3
+python3-pycurl # Python bindings to libcurl (Python 3)
+python3-pyflakes # passive checker of Python 3 programs
+python3-pygments # syntax highlighting package written in Python 3
+python3-pykde4 # Python 3 bindings for the KDE Development Platform
+python3-pyparsing # Python parsing module, Python3 package
+python3-pyqt4 # Python3 bindings for Qt4
+python3-pyqt5 # Python 3 bindings for Qt5
+python3-pyqt5.qtsvg # Python 3 bindings for Qt5's SVG module
+python3-pyqt5.qtwebkit # Python 3 bindings for Qt5's WebKit module
+python3-renderpm # python low level render interface
+python3-reportlab # ReportLab library to create PDF documents using Python3
+python3-reportlab-accel # C coded extension accelerator for the ReportLab Toolkit
+python3-requests # elegant and simple HTTP library for Python3, built for human beings
+python3-roman # module for generating/analyzing Roman numerals for Python 3
+python3-scipy # scientific tools for Python 3
+python3-setuptools # Python3 Distutils Enhancements
+python3-simplegeneric # simple generic functions for Python3
+python3-sip # Python 3/C++ bindings generator runtime library
+python3-six # Python 2 and 3 compatibility library (Python 3 interface)
+python3-software-properties # manage the repositories that you install software from
+python3-sphinx # documentation generator for Python projects (implemented in Python 3)
+python3-sphinx-rtd-theme # sphinx theme from readthedocs.org (Python 3)
+python3-spyderlib # Python IDE for scientists (Python 3 modules)
+python3-systemd # Python 3 bindings for systemd
+python3-tables # hierarchical database for Python3 based on HDF5
+python3-tables-lib # hierarchical database for Python3 based on HDF5 (extension)
+python3-tk # Tkinter - Writing Tk applications with Python 3.x
+python3-tz # Python3 version of the Olson timezone database
+python3-uno # Python-UNO bridge
+python3-update-manager # python 3.x module for update-manager
+python3-urllib3 # HTTP library with thread-safe connection pooling for Python3
+python3-venv # pyvenv-3 binary for python3 (default python3 version)
+python3-virtualenv # Python virtual environment creator
+python3-wheel # built-package format for Python
+python3-xapian1.3 # Xapian search engine interface for Python3
+python3-xkit # library for the manipulation of xorg.conf files (Python 3)
+python3-zmq # Python3 bindings for 0MQ library
+python3.5 # Interactive high-level object-oriented language (version 3.5)
+python3.5-dev # Header files and a static library for Python (v3.5)
+python3.5-minimal # Minimal subset of the Python language (version 3.5)
+python3.5-venv # Interactive high-level object-oriented language (pyvenv binary, version 3.5)
+qapt-batch # Batch package manager for KDE
+qapt-deb-installer # tool for installing deb files
+qdbus # Qt 4 D-Bus tool
+qdbus-qt5 # Qt 5 D-Bus tool
+qml-module-org-kde-activities # provides integration of QML and KDE Frameworks
+qml-module-org-kde-bluezqt # QML wrapper for bluez
+qml-module-org-kde-draganddrop # provides integration of QML and KDE frameworks - draganddrop
+qml-module-org-kde-extensionplugin # transitional dummy package
+qml-module-org-kde-kcoreaddons # provides integration of QML and KDE frameworks - kcoreaddons
+qml-module-org-kde-kio # provides integration of QML and KDE Frameworks - kio
+qml-module-org-kde-kquickcontrols # provides integration of QML and KDE frameworks - kquickcontrols
+qml-module-org-kde-kquickcontrolsaddons # provides integration of QML and KDE Frameworks - kquickcontrolsaddons
+qml-module-org-kde-kwindowsystem # provides integration of QML and KDE frameworks - kwindowsystem
+qml-module-org-kde-runnermodel # Used to write plugins loaded at runtime called "Runners".
+qml-module-org-kde-solid # Qt library to query and control hardware plugin
+qml-module-org-kde-telepathy # kde-telepathy QtDeclarative QML support
+qml-module-qt-labs-folderlistmodel # Qt 5 folderlistmodel QML module
+qml-module-qt-labs-settings # Qt 5 settings QML module
+qml-module-qtgraphicaleffects # Qt 5 Graphical Effects module
+qml-module-qtmultimedia # Qt 5 Multimedia QML module
+qml-module-qtquick-controls # Qt 5 Quick Controls QML module
+qml-module-qtquick-controls-styles-breeze # QtQuick style for Qt and KDE Software
+qml-module-qtquick-dialogs # Qt 5 Dialogs QML module
+qml-module-qtquick-layouts # Qt 5 Quick Layouts QML module
+qml-module-qtquick-privatewidgets # Qt 5 Private Widgets QML module
+qml-module-qtquick-window2 # Qt 5 window 2 QML module
+qml-module-qtquick-xmllistmodel # Qt 5 xmllistmodel QML module
+qml-module-qtquick2 # Qt 5 Qt Quick 2 QML module
+qml-module-qtwebkit # Qt WebKit QML module
+qpdf # tools for transforming and inspecting PDF files
+qt-at-spi # at-spi accessibility plugin for Qt
+qt5-image-formats-plugins # Qt 5 Image Formats module
+qtchooser # Wrapper to select between Qt development binary versions
+qtcore4-l10n # Qt 4 core module translations
+qtdeclarative5-xmllistmodel-plugin # transitional dummy package for Qt 5 xmllistmodel QML module
+qttools5-dev-tools # Qt 5 development tools
+qttranslations5-l10n # translations for Qt 5
+qtwayland5 # QtWayland platform plugin
+rake # ruby make-like utility
+rar # Archiver for .rar files
+rarian-compat # Documentation meta-data library (compatibility tools)
+readline-common # GNU readline and history libraries, common files
+rename # Perl extension for renaming multiple files
+resolvconf # name server information handler
+rfkill # tool for enabling and disabling wireless devices
+rsync # fast, versatile, remote (and local) file-copying tool
+rsyslog # reliable system and kernel logging daemon
+rtkit # Realtime Policy and Watchdog Daemon
+ruby # Interpreter of object-oriented scripting language Ruby (default version)
+ruby-did-you-mean # smart error messages for Ruby > 2.3
+ruby-minitest # Ruby test tools supporting TDD, BDD, mocking, and benchmarking
+ruby-net-telnet # telnet client library
+ruby-power-assert # library showing values of variables and method calls in an expression
+ruby-test-unit # unit testing framework for Ruby
+ruby2.3 # Interpreter of object-oriented scripting language Ruby
+rubygems-integration # integration of Debian Ruby packages with Rubygems
+runit # system-wide service supervision
+samba-libs # Samba core libraries
+sane-utils # API library for scanners -- utilities
+sbsigntool # utility for signing and verifying files for UEFI Secure Boot
+sddm # modern display manager for X11
+sddm-theme-breeze # Breeze SDDM theme
+secureboot-db # Secure Boot updates for DB and DBX
+sed # The GNU sed stream editor
+sensible-utils # Utilities for sensible alternative selection
+session-migration # Tool to migrate in user session settings
+sgml-base # SGML infrastructure and SGML catalog file support
+sgml-data # common SGML and XML data
+shared-mime-info # FreeDesktop.org shared MIME database and spec
+signon-kwallet-extension # KWallet extension for signond
+signon-plugin-oauth2 # Single Signon oauth2 plugin
+signon-plugin-password # Plain Password plugin for Single Sign On
+signon-ui # Dummy transitional package for signon-ui
+signon-ui-service # D-Bus service file for signon-ui
+signon-ui-x11 # Single Sign-on UI
+signond # Single Sign On framework
+skanlite # image scanner for KDE 4 based on the KSane backend
+snapd # Daemon and tooling that enable snap packages
+sni-qt # indicator support for Qt
+socat # multipurpose relay for bidirectional data transfer
+software-properties-common # manage the repositories that you install software from (common)
+software-properties-kde # manage the repositories that you install software from (qt)
+sonnet-plugins # spell checking library for Qt
+sound-theme-freedesktop # freedesktop.org sound theme
+sphinx-common # documentation generator for Python projects - common data
+sphinx-doc # documentation generator for Python projects - documentation
+sphinx-rtd-theme-common # sphinx theme from readthedocs.org (common files)
+sputnik # Extensible wiki
+spyder # Python IDE for scientists (Python 2)
+spyder-common # Python IDE for scientists (common files)
+spyder3 # Python IDE for scientists (Python 3)
+squashfs-tools # Tool to create and append to squashfs filesystems
+sshfs # filesystem client based on SSH File Transfer Protocol
+ssl-cert # simple debconf wrapper for OpenSSL
+strace # System call tracer
+sudo # Provide limited super user privileges to specific users
+synaptic # Graphical package manager
+system-config-printer-udev # Printer auto-configuration facility based on udev
+systemd # system and service manager
+systemd-sysv # system and service manager - SysV links
+systemsettings # System Settings interface
+sysv-rc # System-V-like runlevel change mechanism
+sysvinit-utils # System-V-like utilities
+t1utils # Collection of simple Type 1 font manipulation programs
+tar # GNU version of the tar archiving utility
+tcl # Tool Command Language (default version) - shell
+tcl8.6 # Tcl (the Tool Command Language) v8.6 - shell
+tcpd # Wietse Venema's TCP wrapper utilities
+tcpdump # command-line network traffic analyzer
+telepathy-accounts-signon # Mission control integration with libaccounts and libsignon
+telepathy-gabble # Jabber/XMPP connection manager
+telepathy-haze # Telepathy connection manager that uses libpurple
+telepathy-logger # Telepathy logger service - Daemon
+telepathy-mission-control-5 # management daemon for Telepathy real-time communication framework
+telepathy-salut # Link-local XMPP connection manager for the Telepathy framework
+telnet # basic telnet client
+tex-common # common infrastructure for building and installing TeX
+texinfo # Documentation system for on-line information and printed output
+thermald # Thermal monitoring and controlling daemon
+time # GNU time program for measuring CPU resource usage
+tk # Toolkit for Tcl and X11 (default version) - windowing shell
+tk8.6 # Tk toolkit for Tcl and X11 v8.6 - windowing shell
+tk8.6-blt2.5 # graphics extension library for Tcl/Tk - library
+tla # GNU Arch revision control system
+tla-doc # GNU Arch revision control system (documentation)
+toshset # Access much of the Toshiba laptop hardware interface
+transfig # Utilities for converting XFig figure files
+ttf-ancient-fonts-symbola # symbolic font providing emoji characters from Unicode 7.0 (transitional package)
+ttf-bitstream-vera # The Bitstream Vera family of free TrueType fonts
+ttf-ubuntu-font-family # Ubuntu Font Family, sans-serif typeface hinted for clarity
+tzdata # time zone and daylight-saving time data
+ubuntu-core-launcher # Transitional package for snapd
+ubuntu-drivers-common # Detect and install additional Ubuntu driver packages
+ubuntu-keyring # GnuPG keys of the Ubuntu archive
+ubuntu-minimal # Minimal core of Ubuntu
+ubuntu-mono # Ubuntu Mono Icon theme
+ubuntu-release-upgrader-core # manage release upgrades
+ubuntu-release-upgrader-qt # manage release upgrades
+ubuntu-standard # The Ubuntu standard system
+ucf # Update Configuration File(s): preserve user changes to config files
+udev # /dev/ and hotplug management daemon
+udisks2 # D-Bus service to access and manipulate storage devices
+ufw # program for managing a Netfilter firewall
+unattended-upgrades # automatic installation of security upgrades
+uno-libs3 # LibreOffice UNO runtime environment -- public shared libraries
+unrar # Unarchiver for .rar files (non-free version)
+unzip # De-archiver for .zip files
+update-inetd # inetd configuration file updater
+update-manager-core # manage release upgrades
+update-notifier-common # Files shared between update-notifier and other packages
+upower # abstraction for power management
+ure # LibreOffice UNO runtime environment
+ureadahead # Read required files in advance
+usb-modeswitch # mode switching tool for controlling "flip flop" USB devices
+usb-modeswitch-data # mode switching data for usb-modeswitch
+usbmuxd # USB multiplexor daemon for iPhone and iPod Touch devices
+usbutils # Linux USB utilities
+user-manager # user management tool for the Plasma workspace
+util-linux # miscellaneous system utilities
+uuid-runtime # runtime components for the Universally Unique ID library
+va-driver-all # Video Acceleration (VA) API -- driver metapackage
+vbetool # run real-mode video BIOS code to alter hardware state
+vcdimager # VideoCD (VCD) image mastering and ripping tool
+vdpau-driver-all # Video Decode and Presentation API for Unix (driver metapackage)
+vdpau-va-driver # VDPAU-based backend for VA API
+vim-common # Vi IMproved - Common files
+vim-tiny # Vi IMproved - enhanced vi editor - compact version
+virtualenv # Python virtual environment creator
+vlc # multimedia player and streamer
+vlc-data # Common data for VLC
+vlc-nox # multimedia player and streamer (without X support)
+vlc-plugin-notify # LibNotify plugin for VLC
+vlc-plugin-samba # Samba plugin for VLC
+wamerican # American English dictionary words for /usr/share/dict
+wget # retrieves files from the web
+whiptail # Displays user-friendly dialog boxes from shell scripts
+whoopsie # Ubuntu error tracker submission
+whoopsie-preferences # System preferences for error reporting
+wireless-regdb # wireless regulatory database
+wireless-tools # Tools for manipulating Linux Wireless Extensions
+wodim # command line CD/DVD writing tool
+wordnet # electronic lexical database of English language
+wordnet-base # electronic lexical database of English language (base data)
+wordnet-gui # electronic lexical database of English language (GUI)
+wpasupplicant # client support for WPA and WPA2 (IEEE 802.11i)
+x11-apps # X applications
+x11-common # X Window System (X.Org) infrastructure
+x11-session-utils # X session utilities
+x11-utils # X11 utilities
+x11-xkb-utils # X11 XKB utilities
+x11-xserver-utils # X server utilities
+x11proto-core-dev # X11 core wire protocol and auxiliary headers
+x11proto-damage-dev # X11 Damage extension wire protocol
+x11proto-dri2-dev # X11 DRI2 extension wire protocol
+x11proto-fixes-dev # X11 Fixes extension wire protocol
+x11proto-gl-dev # X11 OpenGL extension wire protocol
+x11proto-input-dev # X11 Input extension wire protocol
+x11proto-kb-dev # X11 XKB extension wire protocol
+x11proto-xext-dev # X11 various extension wire protocol
+x11proto-xf86vidmode-dev # X11 Video Mode extension wire protocol
+xauth # X authentication utility
+xbitmaps # Base X bitmaps
+xdg-user-dirs # tool to manage well known user directories
+xdg-utils # desktop integration utilities from freedesktop.org
+xfonts-base # standard fonts for X
+xfonts-encodings # Encodings for X.Org fonts
+xfonts-scalable # scalable fonts for X
+xfonts-utils # X Window System font utility programs
+xinit # X server initialisation tool
+xinput # Runtime configuration and test of XInput devices
+xkb-data # X Keyboard Extension (XKB) configuration data
+xml-core # XML infrastructure and XML catalog file support
+xorg # X.Org X Window System
+xorg-docs-core # Core documentation for the X.org X Window System
+xorg-sgml-doctools # Common tools for building X.Org SGML documentation
+xserver-common # common files used by various X servers
+xserver-xorg # X.Org X server
+xserver-xorg-core # Xorg X server - core server
+xserver-xorg-input-all # X.Org X server -- input driver metapackage
+xserver-xorg-input-evdev # X.Org X server -- evdev input driver
+xserver-xorg-input-synaptics # Synaptics TouchPad driver for X.Org server
+xserver-xorg-input-vmmouse # X.Org X server -- VMMouse input driver to use with VMWare
+xserver-xorg-input-wacom # X.Org X server -- Wacom input driver
+xserver-xorg-video-all # X.Org X server -- output driver metapackage
+xserver-xorg-video-amdgpu # X.Org X server -- AMDGPU display driver
+xserver-xorg-video-ati # X.Org X server -- AMD/ATI display driver wrapper
+xserver-xorg-video-fbdev # X.Org X server -- fbdev display driver
+xserver-xorg-video-intel # X.Org X server -- Intel i8xx, i9xx display driver
+xserver-xorg-video-nouveau # X.Org X server -- Nouveau display driver
+xserver-xorg-video-qxl # X.Org X server -- QXL display driver
+xserver-xorg-video-radeon # X.Org X server -- AMD/ATI Radeon display driver
+xserver-xorg-video-vesa # X.Org X server -- VESA display driver
+xserver-xorg-video-vmware # X.Org X server -- VMware display driver
+xtrans-dev # X transport library (development files)
+xul-ext-ubufox # Ubuntu modifications for Firefox
+xz-utils # XZ-format compression utilities
+yelp # Help browser for GNOME
+yelp-xsl # XSL stylesheets for the yelp help browser
+zip # Archiver for .zip files
+zlib1g # compression library - runtime
+zlib1g-dev # compression library - development

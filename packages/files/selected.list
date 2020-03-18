@@ -1,0 +1,83 @@
+
+# Packages listed in this file will be installed on restore
+# Comment-out or remove lines for unwanted items
+
+apache2 # Apache HTTP Server
+apache2-utils # Apache HTTP Server (utility programs for web servers)
+aptik # Aptik system migration utility
+aptik-gtk # System migration utility for Linux (GTK Frontend)
+aptoncd # Installation disc creator for packages downloaded via APT
+aria2 # High speed download utility
+atom
+build-essential # Informational list of build-essential packages
+cnijfilter2
+comix # GTK Comic Book Viewer
+compiz-plugins # OpenGL window and compositing manager - plugins
+compizconfig-settings-manager # Compiz configuration settings manager
+cpu-checker # tools to help evaluate certain CPU (or BIOS) features
+dia-gnome # Diagram editor (GNOME version)
+duplicity # encrypted bandwidth-efficient backup
+firefox-locale-en # English language pack for Firefox
+flashplugin-installer # Adobe Flash Player plugin installer
+fluxgui # f.lux indicator applet is an indicator applet to control xflux, an
+gdebi # simple tool to view and install deb files - GNOME GUI
+gdebi-core # simple tool to install deb files
+geany # fast and lightweight IDE
+gimp # The GNU Image Manipulation Program
+gir1.2-vte-2.91 # GObject introspection data for the VTE library
+git # fast, scalable, distributed revision control system
+git-all # fast, scalable, distributed revision control system (all subpackages)
+gksu # graphical front-end to su and sudo
+gparted # GNOME partition editor
+gvfs-bin # userspace virtual filesystem - binaries
+hardinfo # Displays system information
+inkscape # vector-based drawing program
+language-pack-gnome-en # GNOME translation updates for language English
+#libapache2-mod-php # server-side, HTML-embedded scripting language (Apache 2 module) (default)
+#libc-ares2 # asynchronous name resolver
+#libffi-dev # Foreign Function Interface library (development files)
+#libgksu2-0 # library providing su and sudo functionality
+#libglu1-mesa-dev # Mesa OpenGL utility library -- development files
+#libgtop-2.0-10 # gtop system monitoring library (shared)
+#libgtop2-common # gtop system monitoring library (common)
+#libicu52 # International Components for Unicode
+#libmysqlclient-dev # MySQL database development files
+#librsync1 # rsync remote-delta algorithm library
+#libssl-dev # Secure Sockets Layer toolkit - development files
+#libvte-2.91-0 # Terminal emulator widget for GTK+ 3.0 - runtime files
+#libvte-2.91-common # Terminal emulator widget for GTK+ 3.0 - common files
+linuxbrew-wrapper # Missing Package Manager For Linux
+mesa-common-dev # Developer documentation for Mesa
+mongodb-org # MongoDB open source document-oriented database system (metapackage)
+mysql-server # MySQL database server (metapackage depending on the latest version)
+netbeans-installer # Extensible Java IDE
+npm # package manager for Node.js
+oracle-java8-installer # Oracle Java(TM) Development Kit (JDK) 8
+oracle-java8-set-default # Set Oracle JDK 8 as default Java
+p7zip-rar # non-free rar module for p7zip
+php # server-side, HTML-embedded scripting language (default)
+php-gettext # read gettext MO files directly, without requiring anything other than PHP
+php-mbstring # MBSTRING module for PHP [default]
+php-mysql # MySQL module for PHP [default]
+phpmyadmin # MySQL web administration tool
+python-dev # header files and a static library for Python (default)
+python-lockfile # file locking library for Python ?? Python 2 library
+python-pip # alternative Python package installer
+python-uniconvertor # Universal vector graphics translator
+python-virtualenv # Python virtual environment creator
+python-xlib # interface for Python to the X11 protocol
+python3-pip # alternative Python package installer - Python 3 version of the package
+python3-pyqt5.qtsvg # Python 3 bindings for Qt5's SVG module
+python3-pyqt5.qtwebkit # Python 3 bindings for Qt5's WebKit module
+python3-venv # pyvenv-3 binary for python3 (default python3 version)
+rar # Archiver for .rar files
+sputnik # Extensible wiki
+spyder # Python IDE for scientists (Python 2)
+spyder-common # Python IDE for scientists (common files)
+spyder3 # Python IDE for scientists (Python 3)
+tla # GNU Arch revision control system
+tla-doc # GNU Arch revision control system (documentation)
+unrar # Unarchiver for .rar files (non-free version)
+virtualenv # Python virtual environment creator
+vlc # multimedia player and streamer
+wordnet # electronic lexical database of English language
